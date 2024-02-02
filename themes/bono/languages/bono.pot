@@ -1,0 +1,3168 @@
+# Copyright (C) 2019 Wpshop
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Bono\n"
+"POT-Creation-Date: 2023-05-15 10:18+0300\n"
+"PO-Revision-Date: 2021-04-02 17:17+0300\n"
+"Last-Translator: Dmitry Buryak <boss23rus@gmail.com>\n"
+"Language-Team: WPShop\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Domain: bono\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;__;_ex;_n:1,2;_nx:1,2c;_x:1,2c;esc_attr__;"
+"esc_attr_e;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: languages\n"
+"X-Poedit-SearchPathExcluded-2: assets\n"
+"X-Poedit-SearchPathExcluded-3: gulp\n"
+"X-Poedit-SearchPathExcluded-4: resources\n"
+"X-Poedit-SearchPathExcluded-5: vendor\n"
+
+#: 404.php:20
+msgid "That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: _i18n.php:7
+msgid "Send"
+msgstr ""
+
+#: _i18n.php:8 woocommerce/emails/one-click-buy.php:24
+#: woocommerce/emails/plain/one-click-buy.php:12
+msgid "From"
+msgstr ""
+
+#: _i18n.php:9
+msgid "To"
+msgstr ""
+
+#: _i18n.php:10
+msgid "Advertising"
+msgstr ""
+
+#: _i18n.php:11
+msgid "Desktop"
+msgstr ""
+
+#: _i18n.php:12
+msgid "Mobile"
+msgstr ""
+
+#: _i18n.php:13
+msgid "Before content"
+msgstr ""
+
+#: _i18n.php:14
+msgid "Middle content"
+msgstr ""
+
+#: _i18n.php:15
+msgid "After paragraph"
+msgstr ""
+
+#: _i18n.php:16
+msgid "Homepage construct page"
+msgstr ""
+
+#: _i18n.php:19
+msgid "Message from "
+msgstr ""
+
+#: _i18n.php:20
+msgid "Message sent successfully!"
+msgstr ""
+
+#: _i18n.php:21
+msgid "No ratings yet"
+msgstr ""
+
+#: _i18n.php:22
+msgid "Pages"
+msgstr ""
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:52
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: comments.php:54 comments.php:55
+#: template-parts/_renderer/one-click-buy-popup.php:24
+#: woocommerce/single-product-reviews.php:82
+msgid "Name"
+msgstr ""
+
+#: comments.php:56 comments.php:57
+#: template-parts/_renderer/one-click-buy-popup.php:29
+#: woocommerce/single-product-reviews.php:88
+msgid "Email"
+msgstr ""
+
+#: comments.php:58 comments.php:59
+msgid "Website"
+msgstr ""
+
+#: comments.php:92 comments.php:114
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:95 comments.php:117
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:96 comments.php:118
+msgid "Newer Comments"
+msgstr ""
+
+#: core/container.php:94 core/container.php:95
+msgid "Theme Settings"
+msgstr ""
+
+#: functions.php:176 functions.php:182 src/Setup/CustomizerSetup.php:601
+msgid "Description"
+msgstr ""
+
+#: functions.php:191 functions.php:197 src/Setup/CustomizerSetup.php:602
+msgid "Additional information"
+msgstr ""
+
+#: functions.php:207 functions.php:213
+#, php-format
+msgid "Reviews (%d)"
+msgstr ""
+
+#: functions.php:277 src/Setup/CustomizerSetup.php:771
+#: src/Setup/CustomizerSetup.php:1476
+msgid "Favorite"
+msgstr ""
+
+#: functions.php:306 src/Setup/CustomizerSetup.php:825
+#: src/Setup/CustomizerSetup.php:1477
+msgid "Compare Products"
+msgstr ""
+
+#: functions.php:334
+msgid "Login"
+msgstr ""
+
+#: functions.php:334
+msgid "Register"
+msgstr ""
+
+#: header.php:48
+msgid "Skip to content"
+msgstr ""
+
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:29
+msgid "Search…"
+msgstr ""
+
+#: src/Customizer/Control/BonoPageConstructor.php:106
+msgctxt "BonoPageConstructor"
+msgid "Add section:"
+msgstr ""
+
+#: src/Customizer/Control/BonoPageConstructor.php:107
+#: src/Customizer/Control/BonoPageConstructor.php:140
+msgctxt "BonoPageConstructor"
+msgid "Posts"
+msgstr ""
+
+#: src/Customizer/Control/BonoPageConstructor.php:108
+#: src/Customizer/Control/BonoPageConstructor.php:152
+msgctxt "BonoPageConstructor"
+msgid "Html"
+msgstr ""
+
+#: src/Customizer/Control/BonoPageConstructor.php:109
+#: src/Customizer/Control/BonoPageConstructor.php:156
+msgctxt "BonoPageConstructor"
+msgid "Slider"
+msgstr ""
+
+#: src/Customizer/Control/BonoPageConstructor.php:110
+#: src/Customizer/Control/BonoPageConstructor.php:144
+msgctxt "BonoPageConstructor"
+msgid "Products"
+msgstr ""
+
+#: src/Customizer/Control/BonoPageConstructor.php:111
+#: src/Customizer/Control/BonoPageConstructor.php:148
+msgctxt "BonoPageConstructor"
+msgid "Categories"
+msgstr ""
+
+#: src/Customizer/Control/BonoPageConstructor.php:112
+#: src/Features/HomeConstructor.php:50
+#, php-format
+msgid "to output this widget area place %s in homepage constructor HTML block"
+msgstr ""
+
+#: src/Customizer/Control/BonoPageConstructor.php:176
+msgid "Remove"
+msgstr ""
+
+#: src/Customizer/Control/BonoPageConstructor.php:189
+msgid "Slide"
+msgstr ""
+
+#: src/Customizer/Control/BonoPageConstructor.php:410
+msgid "This option will not apply if sidebar enabled."
+msgstr ""
+
+#: src/Customizer/Control/BonoPageConstructor.php:416
+msgid "Disable on mobile"
+msgstr ""
+
+#: src/Customizer/Control/BonoPageConstructor.php:423
+msgid "Adaptive scale"
+msgstr ""
+
+#: src/Customizer/Control/BonoPageConstructor.php:425
+msgid ""
+"This option will apply appropriate scale of slider on different devices."
+msgstr ""
+
+#: src/Customizer/Control/BonoPageConstructor.php:428
+msgid "Base slide size"
+msgstr ""
+
+#: src/Customizer/Control/BonoPageConstructor.php:430
+msgid "1920:400"
+msgstr ""
+
+#: src/Customizer/Control/BonoPageConstructor.php:431
+msgid "Example 1920:400. This size will be used for adaptive scale calculation"
+msgstr ""
+
+#: src/Customizer/Control/DocLink.php:30 src/Customizer/Control/TextArea.php:36
+msgid "Get more info"
+msgstr ""
+
+#: src/Features/AjaxAddToCart.php:53
+msgid "Please choose a product to add to your cart"
+msgstr ""
+
+#: src/Features/AjaxAddToCart.php:81
+msgid "Please choose the quantity of items you wish to add to your cart"
+msgstr ""
+
+#: src/Features/CategoriesTile.php:71
+msgid "Categories Tile"
+msgstr ""
+
+#: src/Features/CategoriesTile.php:76
+msgid "show"
+msgstr ""
+
+#: src/Features/CompareProducts.php:132
+msgid "There are no products for compare"
+msgstr ""
+
+#: src/Features/CompareProducts.php:167
+msgid "Clear Compare"
+msgstr ""
+
+#: src/Features/CompareProducts.php:229
+msgid "Compare page"
+msgstr ""
+
+#: src/Features/CompareProducts.php:230 src/Features/Favorite.php:270
+#, php-format
+msgid "Added by theme %s"
+msgstr ""
+
+#: src/Features/CompareProducts.php:273
+msgctxt "compare"
+msgid "compare"
+msgstr ""
+
+#: src/Features/CompareProducts.php:274
+msgctxt "compare"
+msgid "Compare Products"
+msgstr ""
+
+#: src/Features/Favorite.php:141
+msgid "There are no products in Favorites"
+msgstr ""
+
+#: src/Features/Favorite.php:170
+msgid "Clear Favorite"
+msgstr ""
+
+#: src/Features/Favorite.php:233
+msgctxt "Page slug"
+msgid "favorite"
+msgstr ""
+
+#: src/Features/Favorite.php:234
+msgctxt "Page title"
+msgid "Favorite"
+msgstr ""
+
+#: src/Features/Favorite.php:269
+msgid "Favorite page"
+msgstr ""
+
+#: src/Features/FloatingCart.php:101
+msgctxt "Customizer"
+msgid "Floating Mini Cart"
+msgstr ""
+
+#: src/Features/FloatingCart.php:104
+msgctxt "Customizer"
+msgid "Enabled"
+msgstr ""
+
+#: src/Features/FloatingCart.php:108 src/Setup/CustomizerSetup.php:1323
+#: src/Setup/CustomizerSetup.php:1973
+msgid "Enable on mobile"
+msgstr ""
+
+#: src/Features/FloatingCart.php:115
+msgctxt "Customizer"
+msgid "Position Right"
+msgstr ""
+
+#: src/Features/FloatingCart.php:121
+msgctxt "Customizer"
+msgid "Position Bottom"
+msgstr ""
+
+#: src/Features/FloatingCart.php:127
+msgctxt "Customizer"
+msgid "Padding"
+msgstr ""
+
+#: src/Features/FloatingCart.php:133
+msgctxt "Customizer"
+msgid "Border Radius"
+msgstr ""
+
+#: src/Features/FloatingCart.php:139
+msgctxt "Customizer"
+msgid "Background Color"
+msgstr ""
+
+#: src/Features/FloatingCart.php:143
+msgctxt "Customizer"
+msgid "Icon Hover Color"
+msgstr ""
+
+#: src/Features/HomeConstructor.php:48
+msgid "Home Page Constructor Widget"
+msgstr ""
+
+#: src/Features/MinOrderAmount.php:48
+#, php-format
+msgid ""
+"Your current order total is %s — you must have an order with a minimum of %s "
+"to place your order"
+msgstr ""
+
+#: src/Features/OneClickBuy.php:113 src/Features/OneClickBuy.php:157
+#: src/Setup/CustomizerSetup.php:2894
+msgid "Buy One Click"
+msgstr ""
+
+#: src/Features/OneClickBuy.php:196 src/Features/OneClickBuy.php:210
+msgid "Forbidden"
+msgstr ""
+
+#: src/Features/OneClickBuy.php:200
+msgid "Unable to handle request with empty data"
+msgstr ""
+
+#: src/Features/OneClickBuy.php:267
+msgid "Something went wrong while handling one click buy"
+msgstr ""
+
+#: src/Features/OneClickBuy.php:280
+msgid "Email cannot be empty"
+msgstr ""
+
+#: src/Features/OneClickBuy.php:282
+msgid "Invalid email address"
+msgstr ""
+
+#: src/Features/OneClickBuy.php:286
+msgid "Name cannot be empty"
+msgstr ""
+
+#: src/Features/OneClickBuy.php:292
+msgid "Please fix errors"
+msgstr ""
+
+#: src/Features/OneClickBuy.php:363
+msgid "One click order"
+msgstr ""
+
+#: src/Features/OneClickBuy/Email.php:33
+msgid "One Click Buy"
+msgstr ""
+
+#: src/Features/ProductBadges.php:94
+msgid "Mark as Hit"
+msgstr ""
+
+#: src/Features/ProductBadges.php:125
+msgid "Mark as New"
+msgstr ""
+
+#: src/Features/ProductBadges.php:227
+msgid "New!"
+msgstr ""
+
+#: src/Features/ProductBadges.php:230
+msgid "Hit!"
+msgstr ""
+
+#: src/Features/ProductBadges.php:245
+msgctxt "Customizer"
+msgid "Product Badges"
+msgstr ""
+
+#: src/Features/ProductBadges.php:248
+msgctxt "Customizer"
+msgid "Sale Text Color"
+msgstr ""
+
+#: src/Features/ProductBadges.php:252
+msgctxt "Customizer"
+msgid "Sale Background Color"
+msgstr ""
+
+#: src/Features/ProductBadges.php:256
+msgctxt "Customizer"
+msgid "New Text"
+msgstr ""
+
+#: src/Features/ProductBadges.php:260
+msgctxt "Customizer"
+msgid "New Text Color"
+msgstr ""
+
+#: src/Features/ProductBadges.php:264
+msgctxt "Customizer"
+msgid "New Background Color"
+msgstr ""
+
+#: src/Features/ProductBadges.php:268
+msgctxt "Customizer"
+msgid "Hit Text"
+msgstr ""
+
+#: src/Features/ProductBadges.php:272
+msgctxt "Customizer"
+msgid "Hit Text Color"
+msgstr ""
+
+#: src/Features/ProductBadges.php:276
+msgctxt "Customizer"
+msgid "Hit Background Color"
+msgstr ""
+
+#: src/Features/ProductBadges.php:280
+msgctxt "Customizer"
+msgid "Show Badges on Product Page"
+msgstr ""
+
+#: src/Features/Seo.php:186
+msgid "SEO Title"
+msgstr ""
+
+#: src/Features/Seo.php:195
+msgid "SEO h1"
+msgstr ""
+
+#: src/Features/Seo.php:204
+msgid "SEO Description"
+msgstr ""
+
+#: src/Features/Seo.php:214
+msgid "SEO Keywords"
+msgstr ""
+
+#: src/Features/Seo.php:249
+msgid "SEO Meta Title"
+msgstr ""
+
+#: src/Features/Seo.php:254
+msgid "SEO Meta Description"
+msgstr ""
+
+#: src/Features/Seo.php:259
+msgid "SEO Meta Keywords"
+msgstr ""
+
+#: src/MetaBox/HomepageConstructElements.php:17
+msgctxt "Homepage Construct Elements"
+msgid "Show Content"
+msgstr ""
+
+#: src/MetaBox/HomepageConstructElements.php:61
+msgctxt "Homepage Construct Elements"
+msgid "Header"
+msgstr ""
+
+#: src/MetaBox/HomepageConstructElements.php:62
+msgctxt "Homepage Construct Elements"
+msgid "Content"
+msgstr ""
+
+#: src/MetaBox/HomepageConstructElements.php:65
+#: src/Setup/CustomizerSetup.php:1555 src/Setup/CustomizerSetup.php:1650
+msgid "Top"
+msgstr ""
+
+#: src/MetaBox/HomepageConstructElements.php:66
+#: src/Setup/CustomizerSetup.php:1556 src/Setup/CustomizerSetup.php:1651
+msgid "Bottom"
+msgstr ""
+
+#: src/MetaBox/PageHideElements.php:16 src/MetaBox/PostHideElements.php:16
+#: src/MetaBox/ProductHideElements.php:16 src/Setup/CustomizerSetup.php:1571
+#: src/Setup/CustomizerSetup.php:1607
+msgid "Hide elements"
+msgstr ""
+
+#: src/MetaBox/PageHideElements.php:28 src/MetaBox/PostHideElements.php:28
+#: src/MetaBox/ProductHideElements.php:28 src/Setup/CustomizerSetup.php:1195
+#: src/Setup/CustomizerSetup.php:1393 src/Setup/CustomizerSetup.php:2425
+msgid "Header"
+msgstr ""
+
+#: src/MetaBox/PageHideElements.php:29 src/MetaBox/PostHideElements.php:29
+#: src/MetaBox/ProductHideElements.php:29 src/Setup/CustomizerSetup.php:1230
+#: src/Setup/ThemeSetup.php:113
+msgid "Header menu"
+msgstr ""
+
+#: src/MetaBox/PageHideElements.php:30 src/MetaBox/PostHideElements.php:30
+#: src/Setup/CustomizerSetup.php:1574 src/Setup/CustomizerSetup.php:1610
+#: src/Setup/CustomizerSetup.php:2160 src/Setup/CustomizerSetup.php:2188
+#: src/Setup/CustomizerSetup.php:2211 src/Setup/CustomizerSetup.php:2512
+#: src/Setup/CustomizerSetup.php:2521
+msgid "Thumbnail"
+msgstr ""
+
+#: src/MetaBox/PageHideElements.php:31 src/MetaBox/PostHideElements.php:31
+#: src/Setup/CustomizerSetup.php:1790
+msgid "Breadcrumbs"
+msgstr ""
+
+#: src/MetaBox/PageHideElements.php:32 src/MetaBox/PostHideElements.php:32
+#: src/Setup/CustomizerSetup.php:2162 src/Setup/CustomizerSetup.php:2187
+#: src/Setup/CustomizerSetup.php:2212
+msgid "Title"
+msgstr ""
+
+#: src/MetaBox/PageHideElements.php:33 src/MetaBox/PostHideElements.php:34
+#: src/MetaBox/ProductHideElements.php:33 src/Setup/CustomizerSetup.php:2816
+msgid "Contents"
+msgstr ""
+
+#: src/MetaBox/PageHideElements.php:34 src/MetaBox/PostHideElements.php:35
+#: src/Setup/CustomizerSetup.php:1582 src/Setup/CustomizerSetup.php:1611
+msgid "Bottom social buttons"
+msgstr ""
+
+#: src/MetaBox/PageHideElements.php:35 src/MetaBox/PostHideElements.php:37
+#: src/Setup/CustomizerSetup.php:1586 src/Setup/CustomizerSetup.php:1613
+#: src/Setup/CustomizerSetup.php:1657
+msgid "Comments"
+msgstr ""
+
+#: src/MetaBox/PageHideElements.php:36 src/MetaBox/PostHideElements.php:38
+#: src/MetaBox/ProductHideElements.php:30 src/Setup/CustomizerSetup.php:476
+#: src/Setup/CustomizerSetup.php:519 src/Setup/CustomizerSetup.php:589
+#: src/Setup/CustomizerSetup.php:813 src/Setup/CustomizerSetup.php:876
+#: src/Setup/CustomizerSetup.php:1530 src/Setup/CustomizerSetup.php:1566
+#: src/Setup/CustomizerSetup.php:1602 src/Setup/CustomizerSetup.php:1634
+#: src/Setup/CustomizerSetup.php:1679 src/Setup/CustomizerSetup.php:1699
+msgid "Sidebar"
+msgstr ""
+
+#: src/MetaBox/PageHideElements.php:37 src/MetaBox/PostHideElements.php:39
+#: src/Setup/CustomizerSetup.php:2205
+msgid "Related posts"
+msgstr ""
+
+#: src/MetaBox/PageHideElements.php:38 src/MetaBox/PostHideElements.php:40
+#: src/MetaBox/ProductHideElements.php:31 src/Setup/CustomizerSetup.php:1256
+#: src/Setup/ThemeSetup.php:114
+msgid "Footer menu"
+msgstr ""
+
+#: src/MetaBox/PageHideElements.php:39 src/MetaBox/PostHideElements.php:41
+#: src/MetaBox/ProductHideElements.php:32 src/Setup/CustomizerSetup.php:1282
+#: src/Setup/CustomizerSetup.php:1485
+msgid "Footer"
+msgstr ""
+
+#: src/MetaBox/PostHideElements.php:33
+msgid "Meta-information (date, category, author)"
+msgstr ""
+
+#: src/MetaBox/PostHideElements.php:36 src/Setup/CustomizerSetup.php:1585
+#: src/Setup/CustomizerSetup.php:1912
+msgid "Author block"
+msgstr ""
+
+#: src/MetaBox/PostSettings.php:16
+msgid "Post settings"
+msgstr ""
+
+#: src/MetaBox/PostSettings.php:27
+msgid "Comment title"
+msgstr ""
+
+#: src/MetaBox/PostSettings.php:27
+msgid ""
+"If you need to set the title of the block of comments for this page, fill in "
+"this field"
+msgstr ""
+
+#: src/MetaBox/PostSettings.php:28 template-parts/content-single.php:153
+#: template-parts/content-single.php:155
+msgid "Source"
+msgstr ""
+
+#: src/MetaBox/PostSettings.php:28
+msgid ""
+"If you need to provide a link to an external site as a source, fill in this "
+"field"
+msgstr ""
+
+#: src/MetaBox/PostSettings.php:29
+msgid "Hide link to source using JS"
+msgstr ""
+
+#: src/MetaBox/PostSettings.php:30
+msgid "ID related posts"
+msgstr ""
+
+#: src/MetaBox/PostSettings.php:30
+msgid ""
+"Enter the ID of the posts separated by commas to display certain posts in "
+"related posts"
+msgstr ""
+
+#: src/MetaBox/PostThumbnails.php:16
+msgid "Thumbnail settings"
+msgstr ""
+
+#: src/MetaBox/PostThumbnails.php:28
+msgid "Recommended sizes"
+msgstr ""
+
+#: src/MetaBox/PostThumbnails.php:30
+#, php-format
+msgid "Standard: %s"
+msgstr ""
+
+#: src/MetaBox/PostThumbnails.php:31
+#, php-format
+msgid "Wide: %s"
+msgstr ""
+
+#: src/MetaBox/PostThumbnails.php:32
+#, php-format
+msgid "Full width: %s"
+msgstr ""
+
+#: src/MetaBox/PostThumbnails.php:33
+#, php-format
+msgid "Fullscreen: %s"
+msgstr ""
+
+#: src/MetaBox/PostThumbnails.php:40
+msgid "Thumbnail type"
+msgstr ""
+
+#: src/MetaBox/PostThumbnails.php:42 src/Setup/CustomizerSetup.php:725
+#: src/Setup/CustomizerSetup.php:749 src/Setup/CustomizerSetup.php:1180
+#: src/Setup/CustomizerSetup.php:2179
+msgid "Standard"
+msgstr ""
+
+#: src/MetaBox/PostThumbnails.php:43
+msgid "Full"
+msgstr ""
+
+#: src/MetaBox/PostThumbnails.php:44
+msgid "Fullscreen"
+msgstr ""
+
+#: src/ProductTabs.php:95
+msgid "Empty tab appearing for customizer preview only"
+msgstr ""
+
+#: src/Settings/ResetSettingsAction.php:39
+msgid "Settings are already deleted"
+msgstr ""
+
+#: src/Settings/ResetSettingsAction.php:41
+msgid "Settings are successfully deleted"
+msgstr ""
+
+#: src/Settings/ResetSettingsAction.php:43
+msgid "We cant delete settings"
+msgstr ""
+
+#: src/Settings/SettingsProvider.php:81
+msgid "Bono Theme Settings"
+msgstr ""
+
+#: src/Settings/SettingsProvider.php:82
+msgid "Bono Theme Settings "
+msgstr ""
+
+#: src/Settings/SettingsProvider.php:108
+msgid "Basic Settings"
+msgstr ""
+
+#: src/Settings/SettingsProvider.php:115
+msgid "License"
+msgstr ""
+
+#: src/Settings/SettingsProvider.php:116
+msgid "enter license key"
+msgstr ""
+
+#: src/Settings/SettingsProvider.php:135
+msgid "Show License"
+msgstr ""
+
+#: src/Settings/SettingsProvider.php:136
+msgid "Show license key in input"
+msgstr ""
+
+#: src/Settings/SettingsProvider.php:151
+msgid "Tools"
+msgstr ""
+
+#: src/Settings/SettingsProvider.php:157
+msgid "Export"
+msgstr ""
+
+#: src/Settings/SettingsProvider.php:158
+msgid "Copy this code to any text file to save all settings of this site"
+msgstr ""
+
+#: src/Settings/SettingsProvider.php:164
+msgid "Import"
+msgstr ""
+
+#: src/Settings/SettingsProvider.php:165
+msgid ""
+"Danger! Old settings will be removed before import! Paste code to this field "
+"and press Save"
+msgstr ""
+
+#: src/Settings/SettingsProvider.php:175
+msgid "Reset all settings"
+msgstr ""
+
+#: src/Settings/SettingsProvider.php:176
+msgid ""
+"Danger! Reset all customizer settings. Reset counters, styles, sidebar "
+"settings etc."
+msgstr ""
+
+#: src/Settings/SettingsProvider.php:188
+msgid "Status"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:436 src/Setup/CustomizerSetup.php:1184
+msgctxt "sidebar position"
+msgid "Don't show"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:437 src/Setup/CustomizerSetup.php:1185
+msgctxt "sidebar position"
+msgid "Right"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:438 src/Setup/CustomizerSetup.php:1186
+msgctxt "sidebar position"
+msgid "Left"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:444 src/Setup/ThemeSetup.php:261
+#, php-format
+msgid "Sidebar %d"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:454
+msgctxt "wc"
+msgid "Category"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:465 src/Setup/CustomizerSetup.php:508
+#: src/Setup/CustomizerSetup.php:578 src/Setup/CustomizerSetup.php:802
+#: src/Setup/CustomizerSetup.php:865
+msgid "Show Sidebar"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:486 src/Setup/CustomizerSetup.php:529
+msgid "Move description under products"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:497
+msgid "Shop"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:540 woocommerce/cart/cart.php:49
+#: woocommerce/emails/one-click-buy.php:30
+#: woocommerce/emails/plain/one-click-buy.php:13
+msgid "Product"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:549
+msgid "Recently Viewed and Related Columns"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:558
+msgid "Recently Viewed Limit"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:567
+msgid "Related Products Limit"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:596
+msgctxt "customizer"
+msgid "Horizontal"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:597
+msgctxt "customizer"
+msgid "Vertical"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:598
+msgctxt "customizer"
+msgid "Successively"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:603 woocommerce/single-product-reviews.php:27
+msgid "Reviews"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:611
+msgid "Hide SKU"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:620
+msgid "Hide Categories"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:629
+msgid "Show Categories as Tile"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:641
+msgid "Hide Tags"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:650
+msgid "Show Tags as Tile"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:665
+msgid "Tabs Appearance"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:675
+msgid "Description Wide Content"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:682
+msgid "Tabs Order"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:691
+msgid "Additional Tabs"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:695
+msgid "Ignore"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:696
+msgid "Prepend"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:697
+msgid "Append"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:698
+msgid "Order as Is"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:703 src/Setup/CustomizerSetup.php:2695
+#: woocommerce/single-product/related.php:19
+msgid "Related products"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:705
+msgid "Related Products Title"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:711 src/Setup/CustomizerSetup.php:2696
+#: src/Setup/WoocommerceSetup.php:344
+msgid "Recently viewed products"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:713
+msgid "Recently Viewed Title"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:721
+msgid "Recently Viewed Card Type"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:726 src/Setup/ThemeSetup.php:142
+msgid "Small"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:736
+msgid "Product Cards"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:744
+msgid "Card Type"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:782
+msgid "Enable Favorite"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:792 src/Setup/CustomizerSetup.php:846
+msgid "Show Count Badge"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:836
+msgid "Enable Product Compare"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:854
+msgid "Products Limit"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:855
+msgid "limit of products available to add to compare"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:888
+msgid "Prices"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:898
+msgid "Variable Price with From"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:901
+msgid "show price like \"from 10$\" instead of \"10$ - 20$\""
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:904 src/Setup/CustomizerSetup.php:2682
+msgid "Sale!"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:906
+msgid "Sale Default Message"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:911 src/Setup/CustomizerSetup.php:2683
+msgid "Discount -{{discount_percent}}%"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:913
+msgid "Sale Price Format"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:916
+msgid ""
+"Available variables: {{discount_percent}}, {{discount_value}}. Leave empty "
+"for default message"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:919 src/Setup/CustomizerSetup.php:2684
+msgid "Up to -{{max_discount_percent}}%"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:921
+msgid "Sale Price Format (for grouped products)"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:924
+msgid ""
+"Available variables: {{min_discount_value}}, {{max_discount_value}}, "
+"{{min_discount_percent}}, {{max_discount_percent}}"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:933
+msgid "SEO"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:936
+msgid ""
+"Adds ability to custom manage SEO title, description and keywords of "
+"products and categories"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:945
+msgid "Enable SEO"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:957
+msgid "Description and keywords"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:961
+msgid "Replace always"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:962
+msgid "Replace if not empty"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:964
+msgid "Additional option fo All In One SEO plugin"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:974
+msgid "Hide Address Fields"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:982
+msgid "Advanced WooCommerce Tweaks"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:991
+msgid "Loop hook inside inner block"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:994
+msgid "Put hook woocommerce_after_shop_loop_item inside div.shop-item-inner"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1003
+msgid "Hide view cart link"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1006
+msgid "do not show view cart link after adding a product"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1015
+msgid "Disable ajax add to cart"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1018
+msgid "add to cart will work as usual without dynamic page update"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1038
+msgid "Show Rating"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1049
+msgid "Columns on Mobile"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1064
+msgid "Show Second Image on Hover"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1171 src/Setup/CustomizerSetup.php:1579
+#: src/Setup/CustomizerSetup.php:2513
+msgid "Date"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1172 src/Setup/CustomizerSetup.php:2221
+#: src/Setup/CustomizerSetup.php:2518 src/Setup/CustomizerSetup.php:2524
+msgid "Comments number"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1173 src/Setup/CustomizerSetup.php:2222
+msgctxt "Hide elements"
+msgid "Views"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1174 src/Setup/CustomizerSetup.php:1576
+#: src/Setup/CustomizerSetup.php:2516
+msgid "Author"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1175 src/Setup/CustomizerSetup.php:1575
+#: src/Setup/CustomizerSetup.php:2515 src/Setup/CustomizerSetup.php:2522
+#: woocommerce/content-single-product-ajax.php:74
+#: woocommerce/content-single-product.php:120
+msgid "Category"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1179 src/Setup/CustomizerSetup.php:2154
+msgid "Vertical"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1191
+msgid "Layout"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1196
+msgid "In this section, you can customize the width and height of the header"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1196 src/Setup/CustomizerSetup.php:1231
+#: src/Setup/CustomizerSetup.php:1257 src/Setup/CustomizerSetup.php:1283
+#: src/Setup/CustomizerSetup.php:1311 src/Setup/CustomizerSetup.php:1394
+#: src/Setup/CustomizerSetup.php:1486 src/Setup/CustomizerSetup.php:1522
+#: src/Setup/CustomizerSetup.php:1563 src/Setup/CustomizerSetup.php:1599
+#: src/Setup/CustomizerSetup.php:1626 src/Setup/CustomizerSetup.php:1658
+#: src/Setup/CustomizerSetup.php:1680 src/Setup/CustomizerSetup.php:1696
+#: src/Setup/CustomizerSetup.php:1750 src/Setup/CustomizerSetup.php:1781
+#: src/Setup/CustomizerSetup.php:1791 src/Setup/CustomizerSetup.php:1820
+#: src/Setup/CustomizerSetup.php:1831 src/Setup/CustomizerSetup.php:1898
+#: src/Setup/CustomizerSetup.php:1913 src/Setup/CustomizerSetup.php:1944
+#: src/Setup/CustomizerSetup.php:1966 src/Setup/CustomizerSetup.php:2031
+#: src/Setup/CustomizerSetup.php:2451 src/Setup/CustomizerSetup.php:2489
+msgid "Help"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1199
+msgid "Header width"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1202 src/Setup/CustomizerSetup.php:1210
+#: src/Setup/CustomizerSetup.php:1237 src/Setup/CustomizerSetup.php:1245
+#: src/Setup/CustomizerSetup.php:1263 src/Setup/CustomizerSetup.php:1271
+#: src/Setup/CustomizerSetup.php:1289 src/Setup/CustomizerSetup.php:1297
+#: src/Setup/CustomizerSetup.php:1330 src/Setup/CustomizerSetup.php:1338
+msgid "Full width"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1203 src/Setup/CustomizerSetup.php:1211
+#: src/Setup/CustomizerSetup.php:1238 src/Setup/CustomizerSetup.php:1246
+#: src/Setup/CustomizerSetup.php:1264 src/Setup/CustomizerSetup.php:1272
+#: src/Setup/CustomizerSetup.php:1290 src/Setup/CustomizerSetup.php:1298
+#: src/Setup/CustomizerSetup.php:1331 src/Setup/CustomizerSetup.php:1339
+msgid "Fixed width"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1207
+msgid "Header inner width"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1215
+msgid "Header padding top"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1218
+msgid "You can set padding top and bottom, ex. for background image."
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1222
+msgid "Header padding bottom"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1231
+msgid ""
+"In this section, you can customize the width and fixation of the menu under "
+"the header"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1234
+msgid "Header menu width"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1242
+msgid "Header menu inner width"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1250
+msgid "Fixed menu"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1257
+msgid ""
+"In this section, you can customize the width and display on the mobile menu "
+"in the footer"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1260
+msgid "Footer menu width"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1268
+msgid "Footer menu inner width"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1276
+msgid "Show menu on mobile"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1283
+msgid "In this section, you can customize the width of the footer"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1286
+msgid "Footer width"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1294
+msgid "Footer inner width"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1306
+msgid "Blocks"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1310 src/Setup/ThemeSetup.php:115
+msgid "Super Header"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1311
+msgid "In this section, you can customize the appearance of the super header"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1319
+msgid "Show"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1327
+msgid "Width"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1335
+msgid "Inner width"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1343
+msgid "Text color"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1347 src/Setup/CustomizerSetup.php:2273
+msgid "Link color"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1351 src/Setup/CustomizerSetup.php:1977
+#: src/Setup/CustomizerSetup.php:2336 src/Setup/CustomizerSetup.php:2390
+#: src/Setup/CustomizerSetup.php:2403
+msgid "Background color"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1355 src/Setup/CustomizerSetup.php:1359
+#: src/Setup/CustomizerSetup.php:1363 src/Setup/CustomizerSetup.php:1367
+#: src/Setup/CustomizerSetup.php:1371 src/Setup/CustomizerSetup.php:1375
+#: src/Setup/CustomizerSetup.php:1382 src/Setup/CustomizerSetup.php:1383
+#: src/Setup/CustomizerSetup.php:1384 src/Setup/CustomizerSetup.php:1385
+#: src/Setup/CustomizerSetup.php:1386 src/Setup/CustomizerSetup.php:1387
+#, php-format
+msgid "HTML code #%d"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1380 src/Setup/CustomizerSetup.php:1467
+#: src/Setup/CustomizerSetup.php:2158 src/Setup/CustomizerSetup.php:2183
+#: src/Setup/CustomizerSetup.php:2209
+msgid "Order"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1394
+msgid "In this section, you can customize the appearance of the header"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1398 src/Setup/CustomizerSetup.php:1469
+msgid "Logotype"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1402
+msgid "Logotype max width, px"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1407
+msgid "Logotype max height, px"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1412
+msgctxt "customizer"
+msgid "Header Shadow Style"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1415
+msgctxt "Customizer"
+msgid "Without style"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1416
+msgctxt "Customizer"
+msgid "Style 1"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1417
+msgctxt "Customizer"
+msgid "Style 2"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1418
+msgctxt "Customizer"
+msgid "Style 3"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1419
+msgctxt "Customizer"
+msgid "Style 4"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1423
+msgid "Hide site title"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1427
+msgid "Hide site description"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1431
+msgctxt "customizer"
+msgid "Search Appearance"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1434
+msgctxt "customizer"
+msgid "Compact"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1435
+msgctxt "customizer"
+msgid "Expanded"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1449 src/Setup/CustomizerSetup.php:1474
+msgctxt "customizer"
+msgid "Phone Numbers"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1451
+msgctxt "customizer"
+msgid "new line separated values"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1453
+msgctxt "customizer"
+msgid "how to configure numbers"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1456 src/Setup/CustomizerSetup.php:1470
+msgid "HTML code #1"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1461 src/Setup/CustomizerSetup.php:1473
+msgid "HTML code #2"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1471
+msgid "Social links"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1472 src/Setup/ThemeSetup.php:112
+msgid "Top menu"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1475 src/Setup/CustomizerSetup.php:1695
+#: template-parts/header/header.php:80
+msgid "Search"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1478 template-parts/widgets/mini-cart.php:42
+msgid "Cart"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1479
+msgid "Customer Account"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1486
+msgid "In this section, you can customize the appearance of the footer"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1489 src/Setup/CustomizerSetup.php:1687
+msgid "Number of widget areas"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1490
+msgid "0 - for disable, maximum 5"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1495
+msgid "Copyright"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1496
+msgid "Use %year% to add the current year"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1505
+msgid "Counters and analytics"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1509
+msgid "Disable sticky footer"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1511
+msgid ""
+"By default, the footer is sticking to the bottom of the site. Sometimes it "
+"blinks when the page loads."
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1514
+msgid "Set widget areas to the equal width"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1516
+msgid ""
+"By default, the width of the widgets is equal to the width of the content "
+"inside. To make the columns the equal width, set this checkbox."
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1521 src/Setup/CustomizerSetup.php:2823
+#: src/Setup/ThemeSetup.php:107
+msgid "Home"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1522
+msgid "In this section, you can customize the appearance of the home page"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1525
+msgid "Post cards in home"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1535
+msgid "Sidebar On Blog"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1543 src/Setup/CustomizerSetup.php:2454
+msgid "Header H1"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1544
+msgid ""
+"If the field is not specified, the logo (site name) becomes the h1 header"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1547
+msgid "Text"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1549
+msgid "The text under the heading H1 is displayed only on the main"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1552
+msgid "H1 and text position"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1562
+msgid "Single"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1563
+msgid "In this section, you can customize the appearance of the post"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1578 src/Setup/CustomizerSetup.php:2517
+#: src/Setup/CustomizerSetup.php:2523
+msgid "Views"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1581 src/Setup/CustomizerSetup.php:2163
+#: src/Setup/CustomizerSetup.php:2190 src/Setup/CustomizerSetup.php:2213
+#: src/Setup/CustomizerSetup.php:2514
+msgid "Excerpt"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1583 src/Setup/CustomizerSetup.php:1612
+#: src/Setup/CustomizerSetup.php:3055 template-parts/content-page.php:72
+msgid "Rating"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1584
+#: woocommerce/content-single-product-ajax.php:79
+#: woocommerce/content-single-product.php:125
+msgid "Tags"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1590 src/Setup/CustomizerSetup.php:1617
+msgid "Count of related articles"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1593 src/Setup/CustomizerSetup.php:1620
+msgid "0 - for disable, maximum 50"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1598
+msgid "Page"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1599
+msgid "In this section, you can customize the appearance of the page"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1625
+msgid "Archive"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1626
+msgid "In this section, you can customize the appearance of the archive"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1629
+msgid "Post cards in archive"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1639
+msgid "Show description"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1643
+msgid "Show subcategories"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1647
+msgid "Position of archive description"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1658
+msgid "In this section, you can customize the appearance of the comments"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1661
+msgid "Comments form title"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1664 src/Setup/CustomizerSetup.php:1823
+msgid "Text before Send button"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1669
+msgid "Show comment date"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1673
+msgid "Show comment time"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1680
+msgid "In this section, you can customize the appearance of the sidebar"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1683
+msgid "Show sidebar on mobile"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1688
+msgid "maximum 5"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1696
+msgid "In this section, you can customize the appearance of the search"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1704
+msgid "Item type output"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1707
+msgctxt "customizer"
+msgid "Standard"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1708
+msgctxt "customizer"
+msgid "Show product cards"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1712
+msgid "Show Search Input on Mobile"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1715
+msgctxt "show mobile search"
+msgid "Disabled"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1716
+msgctxt "show mobile search"
+msgid "Show Compact"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1717
+msgctxt "show mobile search"
+msgid "Show Expanded"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1721
+msgid "Search Products Only"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1726
+msgid "Show First Products"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1733
+msgid "Results Count per Page"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1737
+msgid "Show Related Posts"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1745
+msgid "Modules"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1749
+msgid "Table of Contents"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1750
+msgid "In this section, you can customize the toc"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1753
+msgid "Enable on posts"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1757
+msgid "Enable on pages"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1761
+msgid "Default open"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1765
+msgid "Wrap the content in noindex"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1775
+msgid "Content title"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1780
+msgid "Lightbox"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1781
+msgid ""
+"In this section, you can turn on the enlargement of the picture when you "
+"click on it"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1784
+msgid "Enable lightbox"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1791
+msgid "In this section, you can customize the breadcrumbs"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1794
+msgid "Enable breadcrumbs"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1798
+msgid "Home text"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1801
+msgid "Show breadcrumbs in archives"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1805
+msgid "Display page title"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1809
+msgid "Show breadcrumbs in shop pages"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1813
+msgid "Add shop page to breadcrumbs"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1819
+msgid "Contact Form"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1820
+msgid "In this section, you can customize the contact form"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1830
+msgid "Social profiles"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1831
+msgid "In this section, you can customize the social profiles"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1834
+msgid "Facebook"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1837
+msgid "Vk"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1840
+msgid "Twitter"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1843
+msgid "Odnoklassniki"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1846
+msgid "Telegram"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1849
+msgid "Youtube"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1852
+msgid "Instagram"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1855
+msgid "Tik Tok"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1858
+msgid "Linkedin"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1861
+msgid "WhatsApp"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1864
+msgid "Viber"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1867
+msgid "Pinterest"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1870
+msgid "Yandex Zen"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1873
+msgid "GitHub"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1876
+msgid "Discord"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1879
+msgid "RuTube"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1882
+msgid "Yappy"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1885
+msgid "Pikabu"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1888
+msgid "Yandex"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1891
+msgid "Hide links by JS"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1897 src/Setup/CustomizerSetup.php:1906
+msgid "Share buttons"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1898
+msgid "In this section, you can customize the share buttons"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1901
+msgid "Enable counters"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1913
+msgid "In this section, you can customize the author block"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1916
+msgid "Display a link to the author’s page"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1920
+msgid "Open link in new window"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1924
+msgid "Display author social profiles"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1926
+msgid "Links to social profiles author can be set in Users"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1930
+msgid "Social profiles title"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1933
+msgid "Show title social profiles"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1937
+msgid "Hide links social profiles by JS"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1943
+msgid "Sitemap"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1944
+msgid "In this section, you can customize the sitemap"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1947
+msgid "ID of categories to exclude"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1948
+msgid ""
+"Enter the ID of the categories separated by commas to exclude them from the "
+"sitemap"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1951
+msgid "ID of posts to exclude"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1952
+msgid ""
+"Enter the ID of the posts separated by commas to exclude them from the "
+"sitemap"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1955
+msgid "Show pages in sitemap"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1959
+msgid "ID of pages to exclude"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1960
+msgid ""
+"Enter the ID of the pages separated by commas to exclude them from the "
+"sitemap"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1965
+msgid "Scroll to top button"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1966
+msgid "In this section, you can customize the top button"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1969
+msgid "Enable scroll to top button"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1981
+msgid "Arrow color"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1985
+msgid "Button width"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1991
+msgid "Button height"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:1997
+msgid "Position Bottom"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2003
+msgid "Position from Side"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2009
+msgid "Position Side"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2012
+msgid "Left"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2013
+msgid "Right"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2017
+msgid "Button icon"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2030
+msgctxt "Customizer"
+msgid "Views Counter"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2031
+msgid "In this section, you can customize the views counter"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2034 src/Setup/CustomizerSetup.php:2060
+#: src/Setup/CustomizerSetup.php:2134
+msgctxt "Customizer"
+msgid "Enable the Module"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2038
+msgctxt "Customizer"
+msgid "Cunt Views"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2041
+msgctxt "Customizer"
+msgid "Everyone"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2042
+msgctxt "Customizer"
+msgid "Guests Only"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2043
+msgctxt "Customizer"
+msgid "Registered Users Only"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2047
+msgctxt "Customizer"
+msgid "Exclude Bot Views"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2050
+msgctxt "Customizer"
+msgid "No"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2051
+msgctxt "Customizer"
+msgid "Yes"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2057
+msgctxt "Customizer"
+msgid "One Click Buy"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2064
+msgctxt "Customizer"
+msgid "Enable the Button on Catalog"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2071
+msgctxt "Customizer"
+msgid "Button Action"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2074
+msgctxt "Customizer"
+msgid "Send Email"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2075
+msgctxt "Customizer"
+msgid "Create Order"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2076
+msgctxt "Customizer"
+msgid "Create Order and Send Email"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2080
+msgctxt "Customizer"
+msgid "Redirect on Thankyou page"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2090
+msgctxt "Customizer"
+msgid "Button Text"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2094
+msgctxt "Customizer"
+msgid "Order Status"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2099
+msgctxt "Customizer"
+msgid "Success Message"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2101
+msgctxt "Customizer"
+msgid "message on success handled on click"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2104
+msgctxt "Customizer"
+msgid "Email To"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2108
+msgctxt "Customizer"
+msgid "Name To"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2112
+msgctxt "Customizer"
+msgid "Email Subject"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2116
+msgctxt "Customizer"
+msgid "Consent Checked by Default"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2120
+msgctxt "Customizer"
+msgid "Hide if Product is out of Stock"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2124
+msgctxt "Customizer"
+msgid "Phone Mask"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2126
+msgctxt "Customizer"
+msgid ""
+"Example: <code>+7 (999) 999-99-99</code> for Russia<br>or <code>+ddd (999) "
+"999-999</code> for numbers containing 9 in the country code, e.g. <code>+972 "
+"(123) 123-123</code>"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2131
+msgctxt "Customizer"
+msgid "Minimum Order Amount"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2138
+msgctxt "Customizer"
+msgid "Amount"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2149
+msgid "Post cards"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2150
+msgid ""
+"In this section, you can customize the appearance of postcards that are "
+"displayed on the main, in headings, search, etc."
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2164 src/Setup/CustomizerSetup.php:2189
+#: src/Setup/CustomizerSetup.php:2214
+msgid "Meta"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2169 src/Setup/CustomizerSetup.php:2195
+#: src/Setup/CustomizerSetup.php:2219
+msgid "Order Meta"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2173 src/Setup/CustomizerSetup.php:2199
+#: src/Setup/CustomizerSetup.php:2226
+msgid "Excerpt length"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2234
+msgid "Codes"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2238
+msgid "In &lt;head&gt; section"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2239
+msgid "Before &lt;/head&gt; tag"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2243
+msgid "Before &lt;/body&gt;"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2247
+msgid "After content"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2253
+msgid "Colors and background"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2257
+msgctxt "General colors"
+msgid "General"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2260
+msgid "Site text color"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2264
+msgid "Site background color"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2268
+msgid "Base site color"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2270
+msgid ""
+"Separators, pagination, lists, buttons, mob. menu, etc. It is desirable to "
+"choose a color that stands out on a white background"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2277
+msgid "Link hover color"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2281
+msgid "Content background color"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2285
+msgid "Site background"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2289
+msgid "Background repeat"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2292 src/Setup/CustomizerSetup.php:2355
+msgid "No repeat"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2293 src/Setup/CustomizerSetup.php:2356
+msgid "Repeat horizontal and vertical"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2294 src/Setup/CustomizerSetup.php:2357
+msgid "Repeat horizontal"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2295 src/Setup/CustomizerSetup.php:2358
+msgid "Repeat vertical"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2299
+msgid "Background position"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2302 src/Setup/CustomizerSetup.php:2365
+msgid "Top left"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2303 src/Setup/CustomizerSetup.php:2366
+msgid "Top center"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2304 src/Setup/CustomizerSetup.php:2367
+msgid "Top right"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2305 src/Setup/CustomizerSetup.php:2368
+msgid "Middle left"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2306 src/Setup/CustomizerSetup.php:2369
+msgid "Middle center"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2307 src/Setup/CustomizerSetup.php:2370
+msgid "Middle right"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2308 src/Setup/CustomizerSetup.php:2371
+msgid "Bottom left"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2309 src/Setup/CustomizerSetup.php:2372
+msgid "Bottom center"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2310 src/Setup/CustomizerSetup.php:2373
+msgid "Bottom right"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2314
+msgid "Background size"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2317
+msgid "Original"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2318
+msgid "Full screen"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2319
+msgid "Fill screen"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2323
+msgid "Scroll with page"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2329
+msgctxt "Header colors"
+msgid "Header"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2332 src/Setup/CustomizerSetup.php:2399
+msgid "Color text and links"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2340 src/Setup/CustomizerSetup.php:2428
+msgid "Site title"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2344 src/Setup/CustomizerSetup.php:2433
+msgid "Site description"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2348
+msgid "Header background"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2352
+msgid "Header background repeat"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2362
+msgid "Header background position"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2377
+msgid "Display header background on mobile"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2383
+msgctxt "Menu colors"
+msgid "Menu"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2386
+msgid "Links color"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2396
+msgctxt "Footer colors"
+msgid "Footer"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2411
+msgid "Typography"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2415
+msgid "General"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2418
+msgid "Main text"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2440
+msgid "Menu"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2443
+msgid "Links in the menu"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2450
+msgid "Headers"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2451
+msgid "Font sizes of headings are in relative em units"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2459
+msgid "Header H2"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2464
+msgid "Header H3"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2469
+msgid "Header H4"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2474
+msgid "Header H5"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2479
+msgid "Header H6"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2488 src/Setup/CustomizerSetup.php:2497
+msgid "Home constructor"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2489
+msgid "In this section, you can customize the main constructor blocks"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2493
+msgid "Enabled"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2564
+msgid "Tweak options"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2568
+msgid "Content on full width"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2572
+msgid "Social buttons title"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2575
+msgid "Show title social buttons in posts"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2579
+msgid "Show title social buttons on pages"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2583
+msgid "Rating title in posts"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2586
+msgid "Rating title on pages"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2589
+msgid "Show rating statistics"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2593
+msgid "Move jquery in footer"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2597
+msgid "Related posts title"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2600
+msgid "Enable advertising on pages"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2604
+msgid "The value of the telephone field for publisher microdata"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2605
+msgid ""
+"If the field is not specified, the site name will be displayed as the "
+"telephone value"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2608
+msgid "The value of the address field for publisher microdata"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2609
+msgid ""
+"If the field is not specified, the site address will be displayed as the "
+"address value"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2614
+msgid "Affiliate program"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2619
+msgid "Start earning money"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2623
+msgid "Text before link"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2626
+msgid "Text after link"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2778
+msgid "Add a comment"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2862 template-parts/blocks/author-box.php:76
+msgid "Author profiles"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2896
+msgid "New order was successfully created"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:2899
+msgid "New One Click Buy Order"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:3051 template-parts/content-page.php:81
+#: template-parts/content-single.php:187
+msgid "Share to friends"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:3054 template-parts/content-single.php:177
+msgid "Rate article"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:3058 template-parts/related-posts.php:134
+msgid "You may also like"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:3065
+msgid "Powered by theme"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:3744
+msgctxt "Order status"
+msgid "Processing"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:143
+msgid "S"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:148
+msgid "Normal"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:149
+msgid "M"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:154
+msgid "Large"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:155
+msgid "L"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:160
+msgid "Huge"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:161
+msgid "XL"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:176
+msgid "Facebook profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:177
+msgid "Vkontakte profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:178
+msgid "Twitter profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:179
+msgid "Odnoklassniki profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:180
+msgid "Telegram profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:181
+msgid "Youtube profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:182
+msgid "Instagram profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:183
+msgid "Tik Tok profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:184
+msgid "Linkedin profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:185
+msgid "Whatsapp profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:186
+msgid "Viber profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:187
+msgid "Pinterest profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:188
+msgid "Yandex Zen profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:189
+msgid "GitHub profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:190
+msgid "Discord profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:191
+msgid "RuTube profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:192
+msgid "Yappy profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:193
+msgid "Pikabu profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:194
+msgid "Yandex profile link"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:248
+#, php-format
+msgid "Footer %d"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:263 src/Setup/ThemeSetup.php:273
+msgid "Add widgets here."
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:271
+msgid "Mobile filters"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:339
+msgid "average"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:340
+msgid "from"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:356
+msgid "Too many products to add to compare"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:357
+msgid "You have to consent to the processing of personal data"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:422
+msgid "After the header and top menu (for the entire width of the site)"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:450
+msgid "Before related posts"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:454
+msgid "After related posts"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:458
+msgid "Before the bottom menu and footer (for the entire width of the site)"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:473
+msgid "Your name"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:479
+msgid "Your e-mail"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:484
+msgid "Your subject"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:489
+msgid "Message"
+msgstr ""
+
+#: src/Setup/WoocommerceSetup.php:321
+msgid "here"
+msgstr ""
+
+#: src/Setup/WoocommerceSetup.php:326
+#, php-format
+msgid ""
+"Your site does not appear to be using WooCommerce plugin. To get more "
+"advantage from the theme you can setup the plugin %s"
+msgstr ""
+
+#: src/Setup/WoocommerceSetup.php:424
+#, php-format
+msgid "from&nbsp;<del>%1$s</del><ins>%2$s</ins>"
+msgstr ""
+
+#: src/Setup/WoocommerceSetup.php:426
+#, php-format
+msgid "from&nbsp;%s"
+msgstr ""
+
+#: src/Setup/WoocommerceSetup.php:513
+msgid "Additional Custom Options from"
+msgstr ""
+
+#: src/Setup/WoocommerceSetup.php:519
+msgid "Image Zoom"
+msgstr ""
+
+#: src/Setup/WoocommerceSetup.php:520
+msgid "Disable image zoom"
+msgstr ""
+
+#: src/Shortcode/Compare.php:137 src/Shortcode/Compare.php:139
+#: woocommerce/cart/cart.php:18 woocommerce/cart/cart.php:69
+msgid "Price"
+msgstr ""
+
+#: src/Shortcode/Compare.php:150 src/Shortcode/Compare.php:152
+msgid "Weight"
+msgstr ""
+
+#: src/Shortcode/Compare.php:157 src/Shortcode/Compare.php:159
+msgid "Dimensions"
+msgstr ""
+
+#: src/Support/GoogleCaptchaSupport.php:47
+#: src/Support/GoogleCaptchaSupport.php:51
+msgid "Enable google captcha"
+msgstr ""
+
+#: src/Support/GoogleCaptchaSupport.php:108
+#: src/Support/GoogleCaptchaSupport.php:156
+msgid ""
+"It is unable to send a message until the administrator has configured "
+"recaptcha"
+msgstr ""
+
+#: src/ThemeProvider.php:44
+msgid "You need to activate the license in Settings section of Admin panel"
+msgstr ""
+
+#: src/ThemeProvider.php:54
+msgid "Attention!"
+msgstr ""
+
+#: src/ThemeProvider.php:55
+#, php-format
+msgid ""
+"To activate theme you need to enter the license key on <a href=\"%s\">this "
+"page</a>."
+msgstr ""
+
+#: src/ThemeProvider.php:85
+msgid "Can't get response from license server"
+msgstr ""
+
+#: src/TinyMce.php:58
+msgctxt "tinymce"
+msgid "Extra Buttons"
+msgstr ""
+
+#: src/TinyMce.php:59
+msgctxt "tinymce"
+msgid "OK"
+msgstr ""
+
+#: src/TinyMce.php:60
+msgctxt "tinymce"
+msgid "Cancel"
+msgstr ""
+
+#: src/TinyMce.php:61
+msgctxt "tinymce"
+msgid "Enter text"
+msgstr ""
+
+#: src/TinyMce.php:62
+msgctxt "tinymce"
+msgid "Insert blockquote"
+msgstr ""
+
+#: src/TinyMce.php:63
+msgctxt "tinymce"
+msgid "Insert selected text"
+msgstr ""
+
+#: src/TinyMce.php:64
+msgctxt "tinymce"
+msgid "Add blockquote"
+msgstr ""
+
+#: src/TinyMce.php:65
+msgctxt "tinymce"
+msgid "Mark text"
+msgstr ""
+
+#: src/TinyMce.php:66
+msgctxt "tinymce"
+msgid "Mask link"
+msgstr ""
+
+#: src/TinyMce.php:67
+msgctxt "tinymce"
+msgid "Link text must be selected"
+msgstr ""
+
+#: src/TinyMce.php:68
+msgctxt "tinymce"
+msgid "Enter link address"
+msgstr ""
+
+#: src/TinyMce.php:69
+msgctxt "tinymce"
+msgid "You must specify the link address"
+msgstr ""
+
+#: src/TinyMce.php:70
+msgctxt "tinymce"
+msgid "Highlight the spoiler text"
+msgstr ""
+
+#: src/TinyMce.php:71
+msgctxt "tinymce"
+msgid "Enter a spoiler title or leave blank"
+msgstr ""
+
+#: src/TinyMce.php:72
+msgctxt "tinymce"
+msgid "Add Button"
+msgstr ""
+
+#: src/TinyMce.php:73
+msgctxt "tinymce"
+msgid "Insert Button"
+msgstr ""
+
+#: src/TinyMce.php:74
+msgctxt "tinymce"
+msgid "Button Text"
+msgstr ""
+
+#: src/TinyMce.php:75
+msgctxt "tinymce"
+msgid "Link"
+msgstr ""
+
+#: src/TinyMce.php:76
+msgctxt "tinymce"
+msgid "Hide Link"
+msgstr ""
+
+#: src/TinyMce.php:77
+msgctxt "tinymce"
+msgid "Hide"
+msgstr ""
+
+#: src/TinyMce.php:78
+msgctxt "tinymce"
+msgid "Do not hide"
+msgstr ""
+
+#: src/TinyMce.php:79
+msgctxt "tinymce"
+msgid "Background Color"
+msgstr ""
+
+#: src/TinyMce.php:80
+msgctxt "tinymce"
+msgid "Text Color"
+msgstr ""
+
+#: src/TinyMce.php:81
+msgctxt "tinymce"
+msgid "Size"
+msgstr ""
+
+#: src/TinyMce.php:82
+msgctxt "tinymce:button"
+msgid "Small"
+msgstr ""
+
+#: src/TinyMce.php:83
+msgctxt "tinymce:button"
+msgid "Medium"
+msgstr ""
+
+#: src/TinyMce.php:84
+msgctxt "tinymce:button"
+msgid "Big"
+msgstr ""
+
+#: src/TinyMce.php:85
+msgctxt "tinymce"
+msgid "Open Link"
+msgstr ""
+
+#: src/TinyMce.php:86
+msgctxt "tinymce"
+msgid "Current tab"
+msgstr ""
+
+#: src/TinyMce.php:87
+msgctxt "tinymce"
+msgid "New tab"
+msgstr ""
+
+#: src/Widget/MiniCart.php:16
+msgid "Mini Cart"
+msgstr ""
+
+#: src/Widget/MiniCart.php:18
+#, php-format
+msgid "Mini Cart Widget from theme %s"
+msgstr ""
+
+#: src/Widget/TableOfContents.php:17
+msgid "Table Of Contents"
+msgstr ""
+
+#: src/Widget/TableOfContents.php:19
+msgid "Widget for Table of Contents"
+msgstr ""
+
+#: src/Widget/TableOfContents.php:85
+msgid "Title:"
+msgstr ""
+
+#: src/Widget/TableOfContents.php:88
+msgid "Output in Post Types:"
+msgstr ""
+
+#: src/WoocommerceBlocks.php:51 woocommerce/compare-products.php:55
+#: woocommerce/content-product-card-small.php:63
+#: woocommerce/content-product-card-standard.php:64
+#: woocommerce/content-product-small.php:68 woocommerce/content-product.php:70
+#: woocommerce/content-single-product.php:73
+#: woocommerce/content-single-product.php:94
+msgid "Add to Favorite"
+msgstr ""
+
+#: src/WoocommerceBlocks.php:54 woocommerce/compare-products.php:58
+#: woocommerce/content-product-card-small.php:66
+#: woocommerce/content-product-card-standard.php:67
+#: woocommerce/content-product-small.php:71 woocommerce/content-product.php:73
+msgid "Quick View"
+msgstr ""
+
+#: src/WoocommerceBlocks.php:57 woocommerce/compare-products.php:61
+#: woocommerce/content-product-card-small.php:69
+#: woocommerce/content-product-card-standard.php:70
+#: woocommerce/content-product-small.php:74 woocommerce/content-product.php:76
+#: woocommerce/content-single-product.php:77
+#: woocommerce/content-single-product.php:97
+msgid "Add to Compare"
+msgstr ""
+
+#: template-parts/_renderer/admin/status.php:27
+msgid "Child Theme Templates Status"
+msgstr ""
+
+#: template-parts/_renderer/admin/status.php:29
+msgid "There is no child theme"
+msgstr ""
+
+#: template-parts/_renderer/comment.php:57
+msgid "author"
+msgstr ""
+
+#: template-parts/_renderer/comment.php:64
+#, php-format
+msgid "at %s"
+msgstr ""
+
+#: template-parts/_renderer/one-click-buy-popup.php:34
+msgid "Phone"
+msgstr ""
+
+#: template-parts/_renderer/one-click-buy-popup.php:40
+msgid "Consent to the processing of personal data"
+msgstr ""
+
+#: template-parts/_renderer/one-click-buy-popup.php:86
+#: woocommerce/single-product-reviews.php:74
+msgid "Submit"
+msgstr ""
+
+#: template-parts/_renderer/one-click-buy-popup.php:87
+msgid "Cancel"
+msgstr ""
+
+#: template-parts/blocks/author-box.php:92
+msgid "Rate author"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:45
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page-woocommerce.php:49
+#: template-parts/content-page.php:62 template-parts/content-single.php:133
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/header/header.php:79 woocommerce/product-searchform.php:13
+msgid "Search for:"
+msgstr ""
+
+#: template-parts/sections/posts.php:117
+msgid "Subcategories"
+msgstr ""
+
+#: template-parts/sections/slide-item-category.php:51
+#: template-parts/sections/slider.php:59
+msgid "More"
+msgstr ""
+
+#: template-parts/sidebar/mobile.php:34
+msgid "Show filters"
+msgstr ""
+
+#: template-parts/sidebar/mobile.php:35
+msgid "Hide filters"
+msgstr ""
+
+#: woocommerce/cart/cart.php:19 woocommerce/cart/cart.php:75
+#: woocommerce/emails/one-click-buy.php:38
+#: woocommerce/emails/plain/one-click-buy.php:14
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:20 woocommerce/cart/cart.php:97
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:64
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:110 woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:131
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:132
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:133
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:96
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/content-single-product-ajax.php:70
+#: woocommerce/content-single-product.php:116
+msgid "SKU"
+msgstr ""
+
+#: woocommerce/emails/one-click-buy.php:22
+#: woocommerce/emails/plain/one-click-buy.php:11
+msgid "Request for new One Click Buy Order"
+msgstr ""
+
+#: woocommerce/emails/one-click-buy.php:34
+#: woocommerce/emails/plain/one-click-buy.php:13
+msgid "(no product found)"
+msgstr ""
+
+#: woocommerce/emails/one-click-buy.php:43
+msgid "Telephone"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:25
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+#, php-format
+msgid "Showing all %d result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: woocommerce/loop/result-count.php:33
+#, php-format
+msgctxt "Showing %1$d&ndash;%2$d of %3$d results"
+msgid "Showing %1$d&ndash;%2$d of %3$d result"
+msgstr ""
+
+#: woocommerce/product-searchform.php:14
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: woocommerce/single-product-reviews.php:55
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:113
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:117
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:118
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:119
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:120
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:121
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:122
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:123
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:127
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:139
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:16
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:26
+msgid "verified owner"
+msgstr ""

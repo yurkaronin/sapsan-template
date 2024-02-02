@@ -1,0 +1,3217 @@
+# Copyright (C) 2019 Wpshop
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-05-15 10:18+0300\n"
+"PO-Revision-Date: 2023-05-15 10:18+0300\n"
+"Last-Translator: WPShop.ru <support@wpshop.biz>\n"
+"Language-Team: WPShop\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Domain: bono\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;__;_ex;_n:1,2;_nx:1,2c;_x:1,2c;esc_attr__;"
+"esc_attr_e;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: languages\n"
+"X-Poedit-SearchPathExcluded-2: assets\n"
+"X-Poedit-SearchPathExcluded-3: gulp\n"
+
+#: 404.php:20
+msgid "That page can&rsquo;t be found."
+msgstr "Эта страница не найдена."
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Похоже, здесь ничего не нашли. Может быть, попробовать одну из ссылок ниже "
+"или поискать?"
+
+#: _i18n.php:7
+msgid "Send"
+msgstr "Отправить"
+
+#: _i18n.php:8 woocommerce/emails/one-click-buy.php:24
+#: woocommerce/emails/plain/one-click-buy.php:12
+msgid "From"
+msgstr "От"
+
+#: _i18n.php:9
+msgid "To"
+msgstr "До"
+
+#: _i18n.php:10
+msgid "Advertising"
+msgstr "Реклама"
+
+#: _i18n.php:11
+msgid "Desktop"
+msgstr "Десктопная версия"
+
+#: _i18n.php:12
+msgid "Mobile"
+msgstr "Мобильная версия"
+
+#: _i18n.php:13
+msgid "Before content"
+msgstr "Перед контентом"
+
+#: _i18n.php:14
+msgid "Middle content"
+msgstr "Внутри контента"
+
+#: _i18n.php:15
+msgid "After paragraph"
+msgstr "После абзаца"
+
+#: _i18n.php:16
+msgid "Homepage construct page"
+msgstr "Страница конструктора главной"
+
+#: _i18n.php:19
+msgid "Message from "
+msgstr "Сообщение от "
+
+#: _i18n.php:20
+msgid "Message sent successfully!"
+msgstr "Сообщение успешно отправлено!"
+
+#: _i18n.php:21
+msgid "No ratings yet"
+msgstr "Пока нет оценок"
+
+#: _i18n.php:22
+msgid "Pages"
+msgstr "Страницы"
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:52
+msgctxt "noun"
+msgid "Comment"
+msgstr "Комментарий"
+
+#: comments.php:54 comments.php:55
+#: template-parts/_renderer/one-click-buy-popup.php:24
+#: woocommerce/single-product-reviews.php:82
+msgid "Name"
+msgstr "Имя"
+
+#: comments.php:56 comments.php:57
+#: template-parts/_renderer/one-click-buy-popup.php:29
+#: woocommerce/single-product-reviews.php:88
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:58 comments.php:59
+msgid "Website"
+msgstr ""
+
+#: comments.php:92 comments.php:114
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:95 comments.php:117
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+#: comments.php:96 comments.php:118
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: core/container.php:94 core/container.php:95
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+#: functions.php:176 functions.php:182 src/Setup/CustomizerSetup.php:601
+msgid "Description"
+msgstr "Описание"
+
+#: functions.php:191 functions.php:197 src/Setup/CustomizerSetup.php:602
+msgid "Additional information"
+msgstr ""
+
+#: functions.php:207 functions.php:213
+#, php-format
+msgid "Reviews (%d)"
+msgstr "Отзывы (%d)"
+
+#: functions.php:277 src/Setup/CustomizerSetup.php:771
+#: src/Setup/CustomizerSetup.php:1476
+msgid "Favorite"
+msgstr "Избранное"
+
+#: functions.php:306 src/Setup/CustomizerSetup.php:825
+#: src/Setup/CustomizerSetup.php:1477
+msgid "Compare Products"
+msgstr "Сравнить товары"
+
+#: functions.php:334
+msgid "Login"
+msgstr ""
+
+#: functions.php:334
+msgid "Register"
+msgstr ""
+
+#: header.php:48
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: searchform.php:29
+msgid "Search…"
+msgstr "Найти…"
+
+#: src/Customizer/Control/BonoPageConstructor.php:106
+msgctxt "BonoPageConstructor"
+msgid "Add section:"
+msgstr "Добавить секцию:"
+
+#: src/Customizer/Control/BonoPageConstructor.php:107
+#: src/Customizer/Control/BonoPageConstructor.php:140
+msgctxt "BonoPageConstructor"
+msgid "Posts"
+msgstr "Посты"
+
+#: src/Customizer/Control/BonoPageConstructor.php:108
+#: src/Customizer/Control/BonoPageConstructor.php:152
+msgctxt "BonoPageConstructor"
+msgid "Html"
+msgstr "HTML"
+
+#: src/Customizer/Control/BonoPageConstructor.php:109
+#: src/Customizer/Control/BonoPageConstructor.php:156
+msgctxt "BonoPageConstructor"
+msgid "Slider"
+msgstr "Слайдер"
+
+#: src/Customizer/Control/BonoPageConstructor.php:110
+#: src/Customizer/Control/BonoPageConstructor.php:144
+msgctxt "BonoPageConstructor"
+msgid "Products"
+msgstr "Товары"
+
+#: src/Customizer/Control/BonoPageConstructor.php:111
+#: src/Customizer/Control/BonoPageConstructor.php:148
+msgctxt "BonoPageConstructor"
+msgid "Categories"
+msgstr "Категории"
+
+#: src/Customizer/Control/BonoPageConstructor.php:112
+#: src/Features/HomeConstructor.php:50
+#, php-format
+msgid "to output this widget area place %s in homepage constructor HTML block"
+msgstr ""
+"чтобы вывести область виджетов, поместите %s в блок HTML конструктора главной"
+
+#: src/Customizer/Control/BonoPageConstructor.php:176
+msgid "Remove"
+msgstr "Удалить"
+
+#: src/Customizer/Control/BonoPageConstructor.php:189
+msgid "Slide"
+msgstr "Слайд"
+
+#: src/Customizer/Control/BonoPageConstructor.php:410
+msgid "This option will not apply if sidebar enabled."
+msgstr "Эта опция не применится, если включен сайдбар."
+
+#: src/Customizer/Control/BonoPageConstructor.php:416
+msgid "Disable on mobile"
+msgstr "Отключить на мобильном"
+
+#: src/Customizer/Control/BonoPageConstructor.php:423
+msgid "Adaptive scale"
+msgstr "Адаптивный масштаб"
+
+#: src/Customizer/Control/BonoPageConstructor.php:425
+msgid ""
+"This option will apply appropriate scale of slider on different devices."
+msgstr ""
+"Эта опция применит подходящий масштаб слайдера на различных устройствах."
+
+#: src/Customizer/Control/BonoPageConstructor.php:428
+msgid "Base slide size"
+msgstr "Базовый размер слайда"
+
+#: src/Customizer/Control/BonoPageConstructor.php:430
+msgid "1920:400"
+msgstr ""
+
+#: src/Customizer/Control/BonoPageConstructor.php:431
+msgid "Example 1920:400. This size will be used for adaptive scale calculation"
+msgstr ""
+"Пример 1920:400. Этот размер будет использоваться для вычисления масштаба"
+
+#: src/Customizer/Control/DocLink.php:30 src/Customizer/Control/TextArea.php:36
+msgid "Get more info"
+msgstr "Подробнее"
+
+#: src/Features/AjaxAddToCart.php:53
+msgid "Please choose a product to add to your cart"
+msgstr ""
+
+#: src/Features/AjaxAddToCart.php:81
+msgid "Please choose the quantity of items you wish to add to your cart"
+msgstr ""
+
+#: src/Features/CategoriesTile.php:71
+msgid "Categories Tile"
+msgstr "Плитка категорий"
+
+#: src/Features/CategoriesTile.php:76
+msgid "show"
+msgstr "показать"
+
+#: src/Features/CompareProducts.php:132
+msgid "There are no products for compare"
+msgstr "Нет товаров для сравнения"
+
+#: src/Features/CompareProducts.php:167
+msgid "Clear Compare"
+msgstr "Очистить сравнение"
+
+#: src/Features/CompareProducts.php:229
+msgid "Compare page"
+msgstr "Страница сравнения"
+
+#: src/Features/CompareProducts.php:230 src/Features/Favorite.php:270
+#, php-format
+msgid "Added by theme %s"
+msgstr "Добавлено с темой %s"
+
+#: src/Features/CompareProducts.php:273
+msgctxt "compare"
+msgid "compare"
+msgstr "сравнить"
+
+#: src/Features/CompareProducts.php:274
+msgctxt "compare"
+msgid "Compare Products"
+msgstr "Сравнить товары"
+
+#: src/Features/Favorite.php:141
+msgid "There are no products in Favorites"
+msgstr "Нет товаров в избранном"
+
+#: src/Features/Favorite.php:170
+msgid "Clear Favorite"
+msgstr "Очистить избранное"
+
+#: src/Features/Favorite.php:233
+msgctxt "Page slug"
+msgid "favorite"
+msgstr "favorite"
+
+#: src/Features/Favorite.php:234
+msgctxt "Page title"
+msgid "Favorite"
+msgstr "Избранное"
+
+#: src/Features/Favorite.php:269
+msgid "Favorite page"
+msgstr "Страница избранного"
+
+#: src/Features/FloatingCart.php:101
+msgctxt "Customizer"
+msgid "Floating Mini Cart"
+msgstr "Плавающая миникорзина"
+
+#: src/Features/FloatingCart.php:104
+msgctxt "Customizer"
+msgid "Enabled"
+msgstr "Включено"
+
+#: src/Features/FloatingCart.php:108 src/Setup/CustomizerSetup.php:1323
+#: src/Setup/CustomizerSetup.php:1973
+msgid "Enable on mobile"
+msgstr "Включить на мобильном"
+
+#: src/Features/FloatingCart.php:115
+msgctxt "Customizer"
+msgid "Position Right"
+msgstr "Отступ справа"
+
+#: src/Features/FloatingCart.php:121
+msgctxt "Customizer"
+msgid "Position Bottom"
+msgstr "Отступ снизу"
+
+#: src/Features/FloatingCart.php:127
+msgctxt "Customizer"
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+#: src/Features/FloatingCart.php:133
+msgctxt "Customizer"
+msgid "Border Radius"
+msgstr "Радиус границы"
+
+#: src/Features/FloatingCart.php:139
+msgctxt "Customizer"
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: src/Features/FloatingCart.php:143
+msgctxt "Customizer"
+msgid "Icon Hover Color"
+msgstr "Цвет иконки при наведении"
+
+#: src/Features/HomeConstructor.php:48
+msgid "Home Page Constructor Widget"
+msgstr "Виджет конструктора главной"
+
+#: src/Features/MinOrderAmount.php:48
+#, php-format
+msgid ""
+"Your current order total is %s — you must have an order with a minimum of %s "
+"to place your order"
+msgstr ""
+"Ваша текущая сумма заказа составляет %s - для размещения заказа необходима "
+"минимальная сумма %s"
+
+#: src/Features/OneClickBuy.php:113 src/Features/OneClickBuy.php:157
+#: src/Setup/CustomizerSetup.php:2894
+msgid "Buy One Click"
+msgstr "Купить в один клик"
+
+#: src/Features/OneClickBuy.php:196 src/Features/OneClickBuy.php:210
+msgid "Forbidden"
+msgstr ""
+
+#: src/Features/OneClickBuy.php:200
+msgid "Unable to handle request with empty data"
+msgstr ""
+
+#: src/Features/OneClickBuy.php:267
+msgid "Something went wrong while handling one click buy"
+msgstr "Что-то пошло не так в процессе обработки покупки в один клик"
+
+#: src/Features/OneClickBuy.php:280
+msgid "Email cannot be empty"
+msgstr "Email не может быть пустым"
+
+#: src/Features/OneClickBuy.php:282
+msgid "Invalid email address"
+msgstr ""
+
+#: src/Features/OneClickBuy.php:286
+msgid "Name cannot be empty"
+msgstr "Имя не может быть пустым"
+
+#: src/Features/OneClickBuy.php:292
+msgid "Please fix errors"
+msgstr "Пожалуйста, исправьте ошибки"
+
+#: src/Features/OneClickBuy.php:363
+msgid "One click order"
+msgstr "Заказ в один клик"
+
+#: src/Features/OneClickBuy/Email.php:33
+msgid "One Click Buy"
+msgstr "Купить в один клик"
+
+#: src/Features/ProductBadges.php:94
+msgid "Mark as Hit"
+msgstr "Отметить как хит"
+
+#: src/Features/ProductBadges.php:125
+msgid "Mark as New"
+msgstr "Отметить как новинка"
+
+#: src/Features/ProductBadges.php:227
+msgid "New!"
+msgstr "Новинка!"
+
+#: src/Features/ProductBadges.php:230
+msgid "Hit!"
+msgstr "Хит!"
+
+#: src/Features/ProductBadges.php:245
+msgctxt "Customizer"
+msgid "Product Badges"
+msgstr "Значки товаров"
+
+#: src/Features/ProductBadges.php:248
+msgctxt "Customizer"
+msgid "Sale Text Color"
+msgstr "Цвет текста распродажи"
+
+#: src/Features/ProductBadges.php:252
+msgctxt "Customizer"
+msgid "Sale Background Color"
+msgstr "Цвет фона распродажи"
+
+#: src/Features/ProductBadges.php:256
+msgctxt "Customizer"
+msgid "New Text"
+msgstr "Текст новинки"
+
+#: src/Features/ProductBadges.php:260
+msgctxt "Customizer"
+msgid "New Text Color"
+msgstr "Цвет текста новинки"
+
+#: src/Features/ProductBadges.php:264
+msgctxt "Customizer"
+msgid "New Background Color"
+msgstr "Цвет фона новинки"
+
+#: src/Features/ProductBadges.php:268
+msgctxt "Customizer"
+msgid "Hit Text"
+msgstr "Текст хита"
+
+#: src/Features/ProductBadges.php:272
+msgctxt "Customizer"
+msgid "Hit Text Color"
+msgstr "Цвет текста хита"
+
+#: src/Features/ProductBadges.php:276
+msgctxt "Customizer"
+msgid "Hit Background Color"
+msgstr "Цвет фона хита"
+
+#: src/Features/ProductBadges.php:280
+msgctxt "Customizer"
+msgid "Show Badges on Product Page"
+msgstr "Показывать значки на странице товара"
+
+#: src/Features/Seo.php:186
+msgid "SEO Title"
+msgstr "СЕО заголовок"
+
+#: src/Features/Seo.php:195
+msgid "SEO h1"
+msgstr "СЕО h1"
+
+#: src/Features/Seo.php:204
+msgid "SEO Description"
+msgstr "СЕО описание"
+
+#: src/Features/Seo.php:214
+msgid "SEO Keywords"
+msgstr "СЕО ключевые словка"
+
+#: src/Features/Seo.php:249
+msgid "SEO Meta Title"
+msgstr ""
+
+#: src/Features/Seo.php:254
+msgid "SEO Meta Description"
+msgstr "СЕО описание сайта"
+
+#: src/Features/Seo.php:259
+msgid "SEO Meta Keywords"
+msgstr ""
+
+#: src/MetaBox/HomepageConstructElements.php:17
+msgctxt "Homepage Construct Elements"
+msgid "Show Content"
+msgstr "Показать контент"
+
+#: src/MetaBox/HomepageConstructElements.php:61
+msgctxt "Homepage Construct Elements"
+msgid "Header"
+msgstr "Заголовок"
+
+#: src/MetaBox/HomepageConstructElements.php:62
+msgctxt "Homepage Construct Elements"
+msgid "Content"
+msgstr "Контент"
+
+#: src/MetaBox/HomepageConstructElements.php:65
+#: src/Setup/CustomizerSetup.php:1555 src/Setup/CustomizerSetup.php:1650
+msgid "Top"
+msgstr "Сверху"
+
+#: src/MetaBox/HomepageConstructElements.php:66
+#: src/Setup/CustomizerSetup.php:1556 src/Setup/CustomizerSetup.php:1651
+msgid "Bottom"
+msgstr "Снизу"
+
+#: src/MetaBox/PageHideElements.php:16 src/MetaBox/PostHideElements.php:16
+#: src/MetaBox/ProductHideElements.php:16 src/Setup/CustomizerSetup.php:1571
+#: src/Setup/CustomizerSetup.php:1607
+msgid "Hide elements"
+msgstr "Спрятать элементы"
+
+#: src/MetaBox/PageHideElements.php:28 src/MetaBox/PostHideElements.php:28
+#: src/MetaBox/ProductHideElements.php:28 src/Setup/CustomizerSetup.php:1195
+#: src/Setup/CustomizerSetup.php:1393 src/Setup/CustomizerSetup.php:2425
+msgid "Header"
+msgstr "Шапка"
+
+#: src/MetaBox/PageHideElements.php:29 src/MetaBox/PostHideElements.php:29
+#: src/MetaBox/ProductHideElements.php:29 src/Setup/CustomizerSetup.php:1230
+#: src/Setup/ThemeSetup.php:113
+msgid "Header menu"
+msgstr "Меню под шапкой"
+
+#: src/MetaBox/PageHideElements.php:30 src/MetaBox/PostHideElements.php:30
+#: src/Setup/CustomizerSetup.php:1574 src/Setup/CustomizerSetup.php:1610
+#: src/Setup/CustomizerSetup.php:2160 src/Setup/CustomizerSetup.php:2188
+#: src/Setup/CustomizerSetup.php:2211 src/Setup/CustomizerSetup.php:2512
+#: src/Setup/CustomizerSetup.php:2521
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: src/MetaBox/PageHideElements.php:31 src/MetaBox/PostHideElements.php:31
+#: src/Setup/CustomizerSetup.php:1790
+msgid "Breadcrumbs"
+msgstr "Хлебные крошки"
+
+#: src/MetaBox/PageHideElements.php:32 src/MetaBox/PostHideElements.php:32
+#: src/Setup/CustomizerSetup.php:2162 src/Setup/CustomizerSetup.php:2187
+#: src/Setup/CustomizerSetup.php:2212
+msgid "Title"
+msgstr "Заголовок"
+
+#: src/MetaBox/PageHideElements.php:33 src/MetaBox/PostHideElements.php:34
+#: src/MetaBox/ProductHideElements.php:33 src/Setup/CustomizerSetup.php:2816
+msgid "Contents"
+msgstr "Содержание"
+
+#: src/MetaBox/PageHideElements.php:34 src/MetaBox/PostHideElements.php:35
+#: src/Setup/CustomizerSetup.php:1582 src/Setup/CustomizerSetup.php:1611
+msgid "Bottom social buttons"
+msgstr "Нижние социальные кнопки"
+
+#: src/MetaBox/PageHideElements.php:35 src/MetaBox/PostHideElements.php:37
+#: src/Setup/CustomizerSetup.php:1586 src/Setup/CustomizerSetup.php:1613
+#: src/Setup/CustomizerSetup.php:1657
+msgid "Comments"
+msgstr "Комментарии"
+
+#: src/MetaBox/PageHideElements.php:36 src/MetaBox/PostHideElements.php:38
+#: src/MetaBox/ProductHideElements.php:30 src/Setup/CustomizerSetup.php:476
+#: src/Setup/CustomizerSetup.php:519 src/Setup/CustomizerSetup.php:589
+#: src/Setup/CustomizerSetup.php:813 src/Setup/CustomizerSetup.php:876
+#: src/Setup/CustomizerSetup.php:1530 src/Setup/CustomizerSetup.php:1566
+#: src/Setup/CustomizerSetup.php:1602 src/Setup/CustomizerSetup.php:1634
+#: src/Setup/CustomizerSetup.php:1679 src/Setup/CustomizerSetup.php:1699
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+#: src/MetaBox/PageHideElements.php:37 src/MetaBox/PostHideElements.php:39
+#: src/Setup/CustomizerSetup.php:2205
+msgid "Related posts"
+msgstr "Похожие записи"
+
+#: src/MetaBox/PageHideElements.php:38 src/MetaBox/PostHideElements.php:40
+#: src/MetaBox/ProductHideElements.php:31 src/Setup/CustomizerSetup.php:1256
+#: src/Setup/ThemeSetup.php:114
+msgid "Footer menu"
+msgstr "Меню в подвале"
+
+#: src/MetaBox/PageHideElements.php:39 src/MetaBox/PostHideElements.php:41
+#: src/MetaBox/ProductHideElements.php:32 src/Setup/CustomizerSetup.php:1282
+#: src/Setup/CustomizerSetup.php:1485
+msgid "Footer"
+msgstr "Подвал"
+
+#: src/MetaBox/PostHideElements.php:33
+msgid "Meta-information (date, category, author)"
+msgstr "Мета-информация (дата, рубрика, автор)"
+
+#: src/MetaBox/PostHideElements.php:36 src/Setup/CustomizerSetup.php:1585
+#: src/Setup/CustomizerSetup.php:1912
+msgid "Author block"
+msgstr "Блок автора"
+
+#: src/MetaBox/PostSettings.php:16
+msgid "Post settings"
+msgstr ""
+
+#: src/MetaBox/PostSettings.php:27
+msgid "Comment title"
+msgstr ""
+
+#: src/MetaBox/PostSettings.php:27
+msgid ""
+"If you need to set the title of the block of comments for this page, fill in "
+"this field"
+msgstr ""
+
+#: src/MetaBox/PostSettings.php:28 template-parts/content-single.php:153
+#: template-parts/content-single.php:155
+msgid "Source"
+msgstr "Источник"
+
+#: src/MetaBox/PostSettings.php:28
+msgid ""
+"If you need to provide a link to an external site as a source, fill in this "
+"field"
+msgstr ""
+
+#: src/MetaBox/PostSettings.php:29
+msgid "Hide link to source using JS"
+msgstr ""
+
+#: src/MetaBox/PostSettings.php:30
+msgid "ID related posts"
+msgstr ""
+
+#: src/MetaBox/PostSettings.php:30
+msgid ""
+"Enter the ID of the posts separated by commas to display certain posts in "
+"related posts"
+msgstr ""
+
+#: src/MetaBox/PostThumbnails.php:16
+msgid "Thumbnail settings"
+msgstr "Настройки миниатюры"
+
+#: src/MetaBox/PostThumbnails.php:28
+msgid "Recommended sizes"
+msgstr "Рекомендуемые размеры"
+
+#: src/MetaBox/PostThumbnails.php:30
+#, php-format
+msgid "Standard: %s"
+msgstr "Стандартная: %s"
+
+#: src/MetaBox/PostThumbnails.php:31
+#, php-format
+msgid "Wide: %s"
+msgstr "Широкая: %s"
+
+#: src/MetaBox/PostThumbnails.php:32
+#, php-format
+msgid "Full width: %s"
+msgstr "На всю ширину: %s"
+
+#: src/MetaBox/PostThumbnails.php:33
+#, php-format
+msgid "Fullscreen: %s"
+msgstr "На весь экран: %s"
+
+#: src/MetaBox/PostThumbnails.php:40
+msgid "Thumbnail type"
+msgstr "Тип миниатюры"
+
+#: src/MetaBox/PostThumbnails.php:42 src/Setup/CustomizerSetup.php:725
+#: src/Setup/CustomizerSetup.php:749 src/Setup/CustomizerSetup.php:1180
+#: src/Setup/CustomizerSetup.php:2179
+msgid "Standard"
+msgstr "Стандартная"
+
+#: src/MetaBox/PostThumbnails.php:43
+msgid "Full"
+msgstr "На всю ширину"
+
+#: src/MetaBox/PostThumbnails.php:44
+msgid "Fullscreen"
+msgstr "На весь экран"
+
+#: src/ProductTabs.php:95
+msgid "Empty tab appearing for customizer preview only"
+msgstr "Пустая таба, отображаемая только в предосмотре кастомайзера"
+
+#: src/Settings/ResetSettingsAction.php:39
+msgid "Settings are already deleted"
+msgstr "Настройки уже удалены"
+
+#: src/Settings/ResetSettingsAction.php:41
+msgid "Settings are successfully deleted"
+msgstr "Настройки успешно удалены"
+
+#: src/Settings/ResetSettingsAction.php:43
+msgid "We cant delete settings"
+msgstr "Мы не можем удалить настройки"
+
+#: src/Settings/SettingsProvider.php:81
+msgid "Bono Theme Settings"
+msgstr "Настройки Bono"
+
+#: src/Settings/SettingsProvider.php:82
+msgid "Bono Theme Settings "
+msgstr "Настройки Bono "
+
+#: src/Settings/SettingsProvider.php:108
+msgid "Basic Settings"
+msgstr "Основные настройки"
+
+#: src/Settings/SettingsProvider.php:115
+msgid "License"
+msgstr "Лицензия"
+
+#: src/Settings/SettingsProvider.php:116
+msgid "enter license key"
+msgstr "введите лицензионный ключ"
+
+#: src/Settings/SettingsProvider.php:135
+msgid "Show License"
+msgstr "Показать лицензию"
+
+#: src/Settings/SettingsProvider.php:136
+msgid "Show license key in input"
+msgstr "Показать лицензионный ключ в поле ввода"
+
+#: src/Settings/SettingsProvider.php:151
+msgid "Tools"
+msgstr "Инструменты"
+
+#: src/Settings/SettingsProvider.php:157
+msgid "Export"
+msgstr "Экспорт"
+
+#: src/Settings/SettingsProvider.php:158
+msgid "Copy this code to any text file to save all settings of this site"
+msgstr ""
+"Скопируйте этот код в любой текстовый файл, чтобы сохранить все настройки "
+"этого сайта"
+
+#: src/Settings/SettingsProvider.php:164
+msgid "Import"
+msgstr "Импорт"
+
+#: src/Settings/SettingsProvider.php:165
+msgid ""
+"Danger! Old settings will be removed before import! Paste code to this field "
+"and press Save"
+msgstr ""
+"Опасность! Старые настройки будут удалены перед импортом! Вставьте код в это "
+"поле и нажмите Сохранить"
+
+#: src/Settings/SettingsProvider.php:175
+msgid "Reset all settings"
+msgstr "Сбросить все настройки"
+
+#: src/Settings/SettingsProvider.php:176
+msgid ""
+"Danger! Reset all customizer settings. Reset counters, styles, sidebar "
+"settings etc."
+msgstr ""
+"Опасность! Сбросить все настройки кастомайзера. Сброс счетчиков, стилей, "
+"сайдбара и т.д."
+
+#: src/Settings/SettingsProvider.php:188
+msgid "Status"
+msgstr "Статус"
+
+#: src/Setup/CustomizerSetup.php:436 src/Setup/CustomizerSetup.php:1184
+msgctxt "sidebar position"
+msgid "Don't show"
+msgstr "Не показывать"
+
+#: src/Setup/CustomizerSetup.php:437 src/Setup/CustomizerSetup.php:1185
+msgctxt "sidebar position"
+msgid "Right"
+msgstr "Справа"
+
+#: src/Setup/CustomizerSetup.php:438 src/Setup/CustomizerSetup.php:1186
+msgctxt "sidebar position"
+msgid "Left"
+msgstr "Слева"
+
+#: src/Setup/CustomizerSetup.php:444 src/Setup/ThemeSetup.php:261
+#, php-format
+msgid "Sidebar %d"
+msgstr "Сайдбар %d"
+
+#: src/Setup/CustomizerSetup.php:454
+msgctxt "wc"
+msgid "Category"
+msgstr "Категория"
+
+#: src/Setup/CustomizerSetup.php:465 src/Setup/CustomizerSetup.php:508
+#: src/Setup/CustomizerSetup.php:578 src/Setup/CustomizerSetup.php:802
+#: src/Setup/CustomizerSetup.php:865
+msgid "Show Sidebar"
+msgstr "Показать сайдбар"
+
+#: src/Setup/CustomizerSetup.php:486 src/Setup/CustomizerSetup.php:529
+msgid "Move description under products"
+msgstr "Переместить описание под товары"
+
+#: src/Setup/CustomizerSetup.php:497
+msgid "Shop"
+msgstr "Магазин"
+
+#: src/Setup/CustomizerSetup.php:540 woocommerce/cart/cart.php:49
+#: woocommerce/emails/one-click-buy.php:30
+#: woocommerce/emails/plain/one-click-buy.php:13
+msgid "Product"
+msgstr "Товар"
+
+#: src/Setup/CustomizerSetup.php:549
+msgid "Recently Viewed and Related Columns"
+msgstr "Количество колонок недавно просмотренных и похожих товаров"
+
+#: src/Setup/CustomizerSetup.php:558
+msgid "Recently Viewed Limit"
+msgstr "Количество недавно просмотренных"
+
+#: src/Setup/CustomizerSetup.php:567
+msgid "Related Products Limit"
+msgstr "Количество похожих товаров"
+
+#: src/Setup/CustomizerSetup.php:596
+msgctxt "customizer"
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: src/Setup/CustomizerSetup.php:597
+msgctxt "customizer"
+msgid "Vertical"
+msgstr "Вертикально"
+
+#: src/Setup/CustomizerSetup.php:598
+msgctxt "customizer"
+msgid "Successively"
+msgstr "Последовательно"
+
+#: src/Setup/CustomizerSetup.php:603 woocommerce/single-product-reviews.php:27
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: src/Setup/CustomizerSetup.php:611
+msgid "Hide SKU"
+msgstr "Скрыть артикул"
+
+#: src/Setup/CustomizerSetup.php:620
+msgid "Hide Categories"
+msgstr "Скрыть категории"
+
+#: src/Setup/CustomizerSetup.php:629
+msgid "Show Categories as Tile"
+msgstr "Показать категории плиткой"
+
+#: src/Setup/CustomizerSetup.php:641
+msgid "Hide Tags"
+msgstr "Скрыть метки"
+
+#: src/Setup/CustomizerSetup.php:650
+msgid "Show Tags as Tile"
+msgstr "Показать метки плиткой"
+
+#: src/Setup/CustomizerSetup.php:665
+msgid "Tabs Appearance"
+msgstr "Тип табов"
+
+#: src/Setup/CustomizerSetup.php:675
+msgid "Description Wide Content"
+msgstr "Описание на всю ширину"
+
+#: src/Setup/CustomizerSetup.php:682
+msgid "Tabs Order"
+msgstr "Последовательность табов"
+
+#: src/Setup/CustomizerSetup.php:691
+msgid "Additional Tabs"
+msgstr "Дополнительные табы"
+
+#: src/Setup/CustomizerSetup.php:695
+msgid "Ignore"
+msgstr "Игнорировать"
+
+#: src/Setup/CustomizerSetup.php:696
+msgid "Prepend"
+msgstr "Вставить в начало"
+
+#: src/Setup/CustomizerSetup.php:697
+msgid "Append"
+msgstr "Вставить в конец"
+
+#: src/Setup/CustomizerSetup.php:698
+msgid "Order as Is"
+msgstr "Упорядочить как есть"
+
+#: src/Setup/CustomizerSetup.php:703 src/Setup/CustomizerSetup.php:2695
+#: woocommerce/single-product/related.php:19
+msgid "Related products"
+msgstr "Сопутствующие товары"
+
+#: src/Setup/CustomizerSetup.php:705
+msgid "Related Products Title"
+msgstr "Заголовок похожих товаров"
+
+#: src/Setup/CustomizerSetup.php:711 src/Setup/CustomizerSetup.php:2696
+#: src/Setup/WoocommerceSetup.php:344
+msgid "Recently viewed products"
+msgstr "Недавно просмотренные товары"
+
+#: src/Setup/CustomizerSetup.php:713
+msgid "Recently Viewed Title"
+msgstr "Заголовок недавно просмотренных товаров"
+
+#: src/Setup/CustomizerSetup.php:721
+msgid "Recently Viewed Card Type"
+msgstr "Тип карточки недавно просмотренных"
+
+#: src/Setup/CustomizerSetup.php:726 src/Setup/ThemeSetup.php:142
+msgid "Small"
+msgstr "Маленькая"
+
+#: src/Setup/CustomizerSetup.php:736
+msgid "Product Cards"
+msgstr "Карточки товаров"
+
+#: src/Setup/CustomizerSetup.php:744
+msgid "Card Type"
+msgstr "Тип карточки"
+
+#: src/Setup/CustomizerSetup.php:782
+msgid "Enable Favorite"
+msgstr "Включить избранное"
+
+#: src/Setup/CustomizerSetup.php:792 src/Setup/CustomizerSetup.php:846
+msgid "Show Count Badge"
+msgstr "Показать значок с количеством"
+
+#: src/Setup/CustomizerSetup.php:836
+msgid "Enable Product Compare"
+msgstr "Включить сравнение товаров"
+
+#: src/Setup/CustomizerSetup.php:854
+msgid "Products Limit"
+msgstr "Лимит товаров"
+
+#: src/Setup/CustomizerSetup.php:855
+msgid "limit of products available to add to compare"
+msgstr "ограничение количества добавляемых в сравнение товаров"
+
+#: src/Setup/CustomizerSetup.php:888
+msgid "Prices"
+msgstr "Цены"
+
+#: src/Setup/CustomizerSetup.php:898
+msgid "Variable Price with From"
+msgstr "Цена вариативного товара с От"
+
+#: src/Setup/CustomizerSetup.php:901
+msgid "show price like \"from 10$\" instead of \"10$ - 20$\""
+msgstr "показывать цену в виде \"от 10$\" вместо \"10$ - 20$\""
+
+#: src/Setup/CustomizerSetup.php:904 src/Setup/CustomizerSetup.php:2682
+msgid "Sale!"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:906
+msgid "Sale Default Message"
+msgstr "Текст распродажи по-умолчанию"
+
+#: src/Setup/CustomizerSetup.php:911 src/Setup/CustomizerSetup.php:2683
+msgid "Discount -{{discount_percent}}%"
+msgstr "Скидка -{{discount_percent}}%"
+
+#: src/Setup/CustomizerSetup.php:913
+msgid "Sale Price Format"
+msgstr "Формат цены распродажи"
+
+#: src/Setup/CustomizerSetup.php:916
+msgid ""
+"Available variables: {{discount_percent}}, {{discount_value}}. Leave empty "
+"for default message"
+msgstr ""
+"Доступные переменные: {{discount_percent}}, {{discount_value}}. Оставьте "
+"пустым чтоб использовать текст по-умолчанию"
+
+#: src/Setup/CustomizerSetup.php:919 src/Setup/CustomizerSetup.php:2684
+msgid "Up to -{{max_discount_percent}}%"
+msgstr "До -{{max_discount_percent}}%"
+
+#: src/Setup/CustomizerSetup.php:921
+msgid "Sale Price Format (for grouped products)"
+msgstr "Формат цены распродажи (для сгруппированных товаров)"
+
+#: src/Setup/CustomizerSetup.php:924
+msgid ""
+"Available variables: {{min_discount_value}}, {{max_discount_value}}, "
+"{{min_discount_percent}}, {{max_discount_percent}}"
+msgstr ""
+"Доступные переменные:  {{min_discount_value}}, {{max_discount_value}}, "
+"{{min_discount_percent}}, {{max_discount_percent}}"
+
+#: src/Setup/CustomizerSetup.php:933
+msgid "SEO"
+msgstr ""
+
+#: src/Setup/CustomizerSetup.php:936
+msgid ""
+"Adds ability to custom manage SEO title, description and keywords of "
+"products and categories"
+msgstr ""
+"Добавляет возможность пользовательского управления SEO заголовком, описанием "
+"и ключевыми словами товаров и категорий"
+
+#: src/Setup/CustomizerSetup.php:945
+msgid "Enable SEO"
+msgstr "Включить SEO"
+
+#: src/Setup/CustomizerSetup.php:957
+msgid "Description and keywords"
+msgstr "Описание и ключевые слова"
+
+#: src/Setup/CustomizerSetup.php:961
+msgid "Replace always"
+msgstr "Заменять всегда"
+
+#: src/Setup/CustomizerSetup.php:962
+msgid "Replace if not empty"
+msgstr "Заменять если есть"
+
+#: src/Setup/CustomizerSetup.php:964
+msgid "Additional option fo All In One SEO plugin"
+msgstr "Дополнительная опция для плагина All In One SEO"
+
+#: src/Setup/CustomizerSetup.php:974
+msgid "Hide Address Fields"
+msgstr "Скрыть поля адреса"
+
+#: src/Setup/CustomizerSetup.php:982
+msgid "Advanced WooCommerce Tweaks"
+msgstr "Расширенные настройки WooCommerce"
+
+#: src/Setup/CustomizerSetup.php:991
+msgid "Loop hook inside inner block"
+msgstr "Хук цикла внутри вложенного блока"
+
+#: src/Setup/CustomizerSetup.php:994
+msgid "Put hook woocommerce_after_shop_loop_item inside div.shop-item-inner"
+msgstr ""
+"Поместить хук woocommerce_after_shop_loop_item внутри inside div.shop-item-"
+"inner"
+
+#: src/Setup/CustomizerSetup.php:1003
+msgid "Hide view cart link"
+msgstr "Скрыть ссылку просмотра корзины"
+
+#: src/Setup/CustomizerSetup.php:1006
+msgid "do not show view cart link after adding a product"
+msgstr "не показывать ссылку просмотра корзины после добавления товара"
+
+#: src/Setup/CustomizerSetup.php:1015
+msgid "Disable ajax add to cart"
+msgstr "Отключить аяксовое добавление в корзину"
+
+#: src/Setup/CustomizerSetup.php:1018
+msgid "add to cart will work as usual without dynamic page update"
+msgstr ""
+"добавление в корзину будет работать как обычно без динамического обновления "
+"страницы"
+
+#: src/Setup/CustomizerSetup.php:1038
+msgid "Show Rating"
+msgstr "Показать рейтинг"
+
+#: src/Setup/CustomizerSetup.php:1049
+msgid "Columns on Mobile"
+msgstr "Количество колонок в мобильной версии"
+
+#: src/Setup/CustomizerSetup.php:1064
+msgid "Show Second Image on Hover"
+msgstr "Показывать второе изображение при наведении"
+
+#: src/Setup/CustomizerSetup.php:1171 src/Setup/CustomizerSetup.php:1579
+#: src/Setup/CustomizerSetup.php:2513
+msgid "Date"
+msgstr "Дата"
+
+#: src/Setup/CustomizerSetup.php:1172 src/Setup/CustomizerSetup.php:2221
+#: src/Setup/CustomizerSetup.php:2518 src/Setup/CustomizerSetup.php:2524
+msgid "Comments number"
+msgstr "Количество комментариев"
+
+#: src/Setup/CustomizerSetup.php:1173 src/Setup/CustomizerSetup.php:2222
+msgctxt "Hide elements"
+msgid "Views"
+msgstr "Просмотры"
+
+#: src/Setup/CustomizerSetup.php:1174 src/Setup/CustomizerSetup.php:1576
+#: src/Setup/CustomizerSetup.php:2516
+msgid "Author"
+msgstr "Автор"
+
+#: src/Setup/CustomizerSetup.php:1175 src/Setup/CustomizerSetup.php:1575
+#: src/Setup/CustomizerSetup.php:2515 src/Setup/CustomizerSetup.php:2522
+#: woocommerce/content-single-product-ajax.php:74
+#: woocommerce/content-single-product.php:120
+msgid "Category"
+msgstr "Рубрика"
+
+#: src/Setup/CustomizerSetup.php:1179 src/Setup/CustomizerSetup.php:2154
+msgid "Vertical"
+msgstr "Вертикальная"
+
+#: src/Setup/CustomizerSetup.php:1191
+msgid "Layout"
+msgstr "Структура"
+
+#: src/Setup/CustomizerSetup.php:1196
+msgid "In this section, you can customize the width and height of the header"
+msgstr "В данной секции Вы можете настроить ширину и высоту шапки"
+
+#: src/Setup/CustomizerSetup.php:1196 src/Setup/CustomizerSetup.php:1231
+#: src/Setup/CustomizerSetup.php:1257 src/Setup/CustomizerSetup.php:1283
+#: src/Setup/CustomizerSetup.php:1311 src/Setup/CustomizerSetup.php:1394
+#: src/Setup/CustomizerSetup.php:1486 src/Setup/CustomizerSetup.php:1522
+#: src/Setup/CustomizerSetup.php:1563 src/Setup/CustomizerSetup.php:1599
+#: src/Setup/CustomizerSetup.php:1626 src/Setup/CustomizerSetup.php:1658
+#: src/Setup/CustomizerSetup.php:1680 src/Setup/CustomizerSetup.php:1696
+#: src/Setup/CustomizerSetup.php:1750 src/Setup/CustomizerSetup.php:1781
+#: src/Setup/CustomizerSetup.php:1791 src/Setup/CustomizerSetup.php:1820
+#: src/Setup/CustomizerSetup.php:1831 src/Setup/CustomizerSetup.php:1898
+#: src/Setup/CustomizerSetup.php:1913 src/Setup/CustomizerSetup.php:1944
+#: src/Setup/CustomizerSetup.php:1966 src/Setup/CustomizerSetup.php:2031
+#: src/Setup/CustomizerSetup.php:2451 src/Setup/CustomizerSetup.php:2489
+msgid "Help"
+msgstr "Помощь"
+
+#: src/Setup/CustomizerSetup.php:1199
+msgid "Header width"
+msgstr "Ширина шапки"
+
+#: src/Setup/CustomizerSetup.php:1202 src/Setup/CustomizerSetup.php:1210
+#: src/Setup/CustomizerSetup.php:1237 src/Setup/CustomizerSetup.php:1245
+#: src/Setup/CustomizerSetup.php:1263 src/Setup/CustomizerSetup.php:1271
+#: src/Setup/CustomizerSetup.php:1289 src/Setup/CustomizerSetup.php:1297
+#: src/Setup/CustomizerSetup.php:1330 src/Setup/CustomizerSetup.php:1338
+msgid "Full width"
+msgstr "На всю ширину"
+
+#: src/Setup/CustomizerSetup.php:1203 src/Setup/CustomizerSetup.php:1211
+#: src/Setup/CustomizerSetup.php:1238 src/Setup/CustomizerSetup.php:1246
+#: src/Setup/CustomizerSetup.php:1264 src/Setup/CustomizerSetup.php:1272
+#: src/Setup/CustomizerSetup.php:1290 src/Setup/CustomizerSetup.php:1298
+#: src/Setup/CustomizerSetup.php:1331 src/Setup/CustomizerSetup.php:1339
+msgid "Fixed width"
+msgstr "Фиксированная ширина"
+
+#: src/Setup/CustomizerSetup.php:1207
+msgid "Header inner width"
+msgstr "Ширина внутри шапки"
+
+#: src/Setup/CustomizerSetup.php:1215
+msgid "Header padding top"
+msgstr "Отступ сверху у шапки"
+
+#: src/Setup/CustomizerSetup.php:1218
+msgid "You can set padding top and bottom, ex. for background image."
+msgstr ""
+"Вы можете задать отступ сверху и снизу у шапки, например, чтобы поместить "
+"выбранный фон."
+
+#: src/Setup/CustomizerSetup.php:1222
+msgid "Header padding bottom"
+msgstr "Отступ снизу у шапки"
+
+#: src/Setup/CustomizerSetup.php:1231
+msgid ""
+"In this section, you can customize the width and fixation of the menu under "
+"the header"
+msgstr ""
+"В данной секции Вы можете настроить ширину и фиксирование меню под шапкой"
+
+#: src/Setup/CustomizerSetup.php:1234
+msgid "Header menu width"
+msgstr "Ширина меню под шапкой"
+
+#: src/Setup/CustomizerSetup.php:1242
+msgid "Header menu inner width"
+msgstr "Ширина внутри меню под шапкой"
+
+#: src/Setup/CustomizerSetup.php:1250
+msgid "Fixed menu"
+msgstr "Зафиксировать меню"
+
+#: src/Setup/CustomizerSetup.php:1257
+msgid ""
+"In this section, you can customize the width and display on the mobile menu "
+"in the footer"
+msgstr ""
+"В данной секции Вы можете настроить ширину и вывод на мобильном меню в "
+"подвале"
+
+#: src/Setup/CustomizerSetup.php:1260
+msgid "Footer menu width"
+msgstr "Ширина меню в подвале"
+
+#: src/Setup/CustomizerSetup.php:1268
+msgid "Footer menu inner width"
+msgstr "Ширина внутри меню в подвале"
+
+#: src/Setup/CustomizerSetup.php:1276
+msgid "Show menu on mobile"
+msgstr "Показать меню на мобильном"
+
+#: src/Setup/CustomizerSetup.php:1283
+msgid "In this section, you can customize the width of the footer"
+msgstr "В данной секции Вы можете настроить ширину подвала"
+
+#: src/Setup/CustomizerSetup.php:1286
+msgid "Footer width"
+msgstr "Ширина подвала"
+
+#: src/Setup/CustomizerSetup.php:1294
+msgid "Footer inner width"
+msgstr "Ширина внутри подвала"
+
+#: src/Setup/CustomizerSetup.php:1306
+msgid "Blocks"
+msgstr "Блоки"
+
+#: src/Setup/CustomizerSetup.php:1310 src/Setup/ThemeSetup.php:115
+msgid "Super Header"
+msgstr "Верхняя полоса"
+
+#: src/Setup/CustomizerSetup.php:1311
+msgid "In this section, you can customize the appearance of the super header"
+msgstr "В данной секции Вы можете настроить внешний вид верхней полосы"
+
+#: src/Setup/CustomizerSetup.php:1319
+msgid "Show"
+msgstr "Показать"
+
+#: src/Setup/CustomizerSetup.php:1327
+msgid "Width"
+msgstr "Ширина"
+
+#: src/Setup/CustomizerSetup.php:1335
+msgid "Inner width"
+msgstr "Ширина внутри"
+
+#: src/Setup/CustomizerSetup.php:1343
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: src/Setup/CustomizerSetup.php:1347 src/Setup/CustomizerSetup.php:2273
+msgid "Link color"
+msgstr "Цвет ссылок"
+
+#: src/Setup/CustomizerSetup.php:1351 src/Setup/CustomizerSetup.php:1977
+#: src/Setup/CustomizerSetup.php:2336 src/Setup/CustomizerSetup.php:2390
+#: src/Setup/CustomizerSetup.php:2403
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: src/Setup/CustomizerSetup.php:1355 src/Setup/CustomizerSetup.php:1359
+#: src/Setup/CustomizerSetup.php:1363 src/Setup/CustomizerSetup.php:1367
+#: src/Setup/CustomizerSetup.php:1371 src/Setup/CustomizerSetup.php:1375
+#: src/Setup/CustomizerSetup.php:1382 src/Setup/CustomizerSetup.php:1383
+#: src/Setup/CustomizerSetup.php:1384 src/Setup/CustomizerSetup.php:1385
+#: src/Setup/CustomizerSetup.php:1386 src/Setup/CustomizerSetup.php:1387
+#, php-format
+msgid "HTML code #%d"
+msgstr "HTML код  #%d"
+
+#: src/Setup/CustomizerSetup.php:1380 src/Setup/CustomizerSetup.php:1467
+#: src/Setup/CustomizerSetup.php:2158 src/Setup/CustomizerSetup.php:2183
+#: src/Setup/CustomizerSetup.php:2209
+msgid "Order"
+msgstr "Порядок"
+
+#: src/Setup/CustomizerSetup.php:1394
+msgid "In this section, you can customize the appearance of the header"
+msgstr "В данной секции Вы можете настроить внешний вид шапки"
+
+#: src/Setup/CustomizerSetup.php:1398 src/Setup/CustomizerSetup.php:1469
+msgid "Logotype"
+msgstr "Логотип"
+
+#: src/Setup/CustomizerSetup.php:1402
+msgid "Logotype max width, px"
+msgstr "Максимальная ширина логотипа, px"
+
+#: src/Setup/CustomizerSetup.php:1407
+msgid "Logotype max height, px"
+msgstr "Максимальная высота логотипа, px"
+
+#: src/Setup/CustomizerSetup.php:1412
+msgctxt "customizer"
+msgid "Header Shadow Style"
+msgstr "Стиль тени шапки"
+
+#: src/Setup/CustomizerSetup.php:1415
+msgctxt "Customizer"
+msgid "Without style"
+msgstr "Без стиля"
+
+#: src/Setup/CustomizerSetup.php:1416
+msgctxt "Customizer"
+msgid "Style 1"
+msgstr "Стиль 1"
+
+#: src/Setup/CustomizerSetup.php:1417
+msgctxt "Customizer"
+msgid "Style 2"
+msgstr "Стиль 2"
+
+#: src/Setup/CustomizerSetup.php:1418
+msgctxt "Customizer"
+msgid "Style 3"
+msgstr "Стиль 3"
+
+#: src/Setup/CustomizerSetup.php:1419
+msgctxt "Customizer"
+msgid "Style 4"
+msgstr "Стиль 4"
+
+#: src/Setup/CustomizerSetup.php:1423
+msgid "Hide site title"
+msgstr "Скрыть название сайта"
+
+#: src/Setup/CustomizerSetup.php:1427
+msgid "Hide site description"
+msgstr "Скрыть описание сайта"
+
+#: src/Setup/CustomizerSetup.php:1431
+msgctxt "customizer"
+msgid "Search Appearance"
+msgstr "Поиск"
+
+#: src/Setup/CustomizerSetup.php:1434
+msgctxt "customizer"
+msgid "Compact"
+msgstr "Компактный"
+
+#: src/Setup/CustomizerSetup.php:1435
+msgctxt "customizer"
+msgid "Expanded"
+msgstr "Расширенный"
+
+#: src/Setup/CustomizerSetup.php:1449 src/Setup/CustomizerSetup.php:1474
+msgctxt "customizer"
+msgid "Phone Numbers"
+msgstr "Телефонные номера"
+
+#: src/Setup/CustomizerSetup.php:1451
+msgctxt "customizer"
+msgid "new line separated values"
+msgstr "значения, разделённые новой строкой"
+
+#: src/Setup/CustomizerSetup.php:1453
+msgctxt "customizer"
+msgid "how to configure numbers"
+msgstr "как настроить номера"
+
+#: src/Setup/CustomizerSetup.php:1456 src/Setup/CustomizerSetup.php:1470
+msgid "HTML code #1"
+msgstr "HTML код  #1"
+
+#: src/Setup/CustomizerSetup.php:1461 src/Setup/CustomizerSetup.php:1473
+msgid "HTML code #2"
+msgstr "HTML код #2"
+
+#: src/Setup/CustomizerSetup.php:1471
+msgid "Social links"
+msgstr "Социальные сети"
+
+#: src/Setup/CustomizerSetup.php:1472 src/Setup/ThemeSetup.php:112
+msgid "Top menu"
+msgstr "Меню в шапке"
+
+#: src/Setup/CustomizerSetup.php:1475 src/Setup/CustomizerSetup.php:1695
+#: template-parts/header/header.php:80
+msgid "Search"
+msgstr "Поиск"
+
+#: src/Setup/CustomizerSetup.php:1478 template-parts/widgets/mini-cart.php:42
+msgid "Cart"
+msgstr "Корзина"
+
+#: src/Setup/CustomizerSetup.php:1479
+msgid "Customer Account"
+msgstr "Аккаунт пользователя"
+
+#: src/Setup/CustomizerSetup.php:1486
+msgid "In this section, you can customize the appearance of the footer"
+msgstr "В данной секции Вы можете настроить внешний вид подвала"
+
+#: src/Setup/CustomizerSetup.php:1489 src/Setup/CustomizerSetup.php:1687
+msgid "Number of widget areas"
+msgstr "Число виджет блоков"
+
+#: src/Setup/CustomizerSetup.php:1490
+msgid "0 - for disable, maximum 5"
+msgstr "0 - чтобы отключить, максимум 5"
+
+#: src/Setup/CustomizerSetup.php:1495
+msgid "Copyright"
+msgstr "Копирайт"
+
+#: src/Setup/CustomizerSetup.php:1496
+msgid "Use %year% to add the current year"
+msgstr "Используйте %year%, чтобы добавить текущий год"
+
+#: src/Setup/CustomizerSetup.php:1505
+msgid "Counters and analytics"
+msgstr "Счетчики и аналитика"
+
+#: src/Setup/CustomizerSetup.php:1509
+msgid "Disable sticky footer"
+msgstr "Отключить липкий подвал"
+
+#: src/Setup/CustomizerSetup.php:1511
+msgid ""
+"By default, the footer is sticking to the bottom of the site. Sometimes it "
+"blinks when the page loads."
+msgstr ""
+"По умолчанию подвал прилипает к низу сайта. Редко, но иногда он моргает, при "
+"загрузке страницы."
+
+#: src/Setup/CustomizerSetup.php:1514
+msgid "Set widget areas to the equal width"
+msgstr "Установить одинаковую ширину виджетов"
+
+#: src/Setup/CustomizerSetup.php:1516
+msgid ""
+"By default, the width of the widgets is equal to the width of the content "
+"inside. To make the columns the equal width, set this checkbox."
+msgstr ""
+"По умолчанию ширина виджетов равняется ширине контента внутри. Чтобы сделать "
+"все колонки одинаковой ширины, установите чекбокс."
+
+#: src/Setup/CustomizerSetup.php:1521 src/Setup/CustomizerSetup.php:2823
+#: src/Setup/ThemeSetup.php:107
+msgid "Home"
+msgstr "Главная"
+
+#: src/Setup/CustomizerSetup.php:1522
+msgid "In this section, you can customize the appearance of the home page"
+msgstr "В данной секции Вы можете настроить внешний вид главной страницы"
+
+#: src/Setup/CustomizerSetup.php:1525
+msgid "Post cards in home"
+msgstr "Карточки постов на главной"
+
+#: src/Setup/CustomizerSetup.php:1535
+msgid "Sidebar On Blog"
+msgstr "Сайдбар на странице блога"
+
+#: src/Setup/CustomizerSetup.php:1543 src/Setup/CustomizerSetup.php:2454
+msgid "Header H1"
+msgstr "Заголовок H1"
+
+#: src/Setup/CustomizerSetup.php:1544
+msgid ""
+"If the field is not specified, the logo (site name) becomes the h1 header"
+msgstr ""
+"Если поле не задано - заголовком h1 становится логотип (название сайта)"
+
+#: src/Setup/CustomizerSetup.php:1547
+msgid "Text"
+msgstr "Текст"
+
+#: src/Setup/CustomizerSetup.php:1549
+msgid "The text under the heading H1 is displayed only on the main"
+msgstr "Текст под заголовком H1, отображается только на главной"
+
+#: src/Setup/CustomizerSetup.php:1552
+msgid "H1 and text position"
+msgstr "H1 и расположение текста"
+
+#: src/Setup/CustomizerSetup.php:1562
+msgid "Single"
+msgstr "Запись"
+
+#: src/Setup/CustomizerSetup.php:1563
+msgid "In this section, you can customize the appearance of the post"
+msgstr "В данной секции Вы можете настроить внешний вид записи"
+
+#: src/Setup/CustomizerSetup.php:1578 src/Setup/CustomizerSetup.php:2517
+#: src/Setup/CustomizerSetup.php:2523
+msgid "Views"
+msgstr "Просмотров"
+
+#: src/Setup/CustomizerSetup.php:1581 src/Setup/CustomizerSetup.php:2163
+#: src/Setup/CustomizerSetup.php:2190 src/Setup/CustomizerSetup.php:2213
+#: src/Setup/CustomizerSetup.php:2514
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: src/Setup/CustomizerSetup.php:1583 src/Setup/CustomizerSetup.php:1612
+#: src/Setup/CustomizerSetup.php:3055 template-parts/content-page.php:72
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: src/Setup/CustomizerSetup.php:1584
+#: woocommerce/content-single-product-ajax.php:79
+#: woocommerce/content-single-product.php:125
+msgid "Tags"
+msgstr "Метки"
+
+#: src/Setup/CustomizerSetup.php:1590 src/Setup/CustomizerSetup.php:1617
+msgid "Count of related articles"
+msgstr "Количество похожих постов"
+
+#: src/Setup/CustomizerSetup.php:1593 src/Setup/CustomizerSetup.php:1620
+msgid "0 - for disable, maximum 50"
+msgstr "0 - чтобы отключить, максимум 50"
+
+#: src/Setup/CustomizerSetup.php:1598
+msgid "Page"
+msgstr "Страница"
+
+#: src/Setup/CustomizerSetup.php:1599
+msgid "In this section, you can customize the appearance of the page"
+msgstr "В данной секции Вы можете настроить внешний вид страницы"
+
+#: src/Setup/CustomizerSetup.php:1625
+msgid "Archive"
+msgstr "Архивы"
+
+#: src/Setup/CustomizerSetup.php:1626
+msgid "In this section, you can customize the appearance of the archive"
+msgstr "В данной секции Вы можете настроить внешний вид архивов"
+
+#: src/Setup/CustomizerSetup.php:1629
+msgid "Post cards in archive"
+msgstr "Карточки постов в архивах"
+
+#: src/Setup/CustomizerSetup.php:1639
+msgid "Show description"
+msgstr "Показать описание"
+
+#: src/Setup/CustomizerSetup.php:1643
+msgid "Show subcategories"
+msgstr "Показывать подрубрики"
+
+#: src/Setup/CustomizerSetup.php:1647
+msgid "Position of archive description"
+msgstr "Расположение описания"
+
+#: src/Setup/CustomizerSetup.php:1658
+msgid "In this section, you can customize the appearance of the comments"
+msgstr "В данной секции Вы можете настроить внешний вид комментариев"
+
+#: src/Setup/CustomizerSetup.php:1661
+msgid "Comments form title"
+msgstr "Заголовок формы комментариев"
+
+#: src/Setup/CustomizerSetup.php:1664 src/Setup/CustomizerSetup.php:1823
+msgid "Text before Send button"
+msgstr "Текст перед кнопкой Отправить"
+
+#: src/Setup/CustomizerSetup.php:1669
+msgid "Show comment date"
+msgstr "Показать дату комментария"
+
+#: src/Setup/CustomizerSetup.php:1673
+msgid "Show comment time"
+msgstr "Показать время комментария"
+
+#: src/Setup/CustomizerSetup.php:1680
+msgid "In this section, you can customize the appearance of the sidebar"
+msgstr "В данной секции Вы можете настроить внешний вид сайдбара"
+
+#: src/Setup/CustomizerSetup.php:1683
+msgid "Show sidebar on mobile"
+msgstr "Показать сайдбар на мобильном"
+
+#: src/Setup/CustomizerSetup.php:1688
+msgid "maximum 5"
+msgstr "максимум 5"
+
+#: src/Setup/CustomizerSetup.php:1696
+msgid "In this section, you can customize the appearance of the search"
+msgstr "В данной секции Вы можете настроить внешний вид поиска"
+
+#: src/Setup/CustomizerSetup.php:1704
+msgid "Item type output"
+msgstr "Тип вывода элементов"
+
+#: src/Setup/CustomizerSetup.php:1707
+msgctxt "customizer"
+msgid "Standard"
+msgstr "Стандартный"
+
+#: src/Setup/CustomizerSetup.php:1708
+msgctxt "customizer"
+msgid "Show product cards"
+msgstr "Показывать карточки товаров"
+
+#: src/Setup/CustomizerSetup.php:1712
+msgid "Show Search Input on Mobile"
+msgstr "Показывать поиск в мобильной версии"
+
+#: src/Setup/CustomizerSetup.php:1715
+msgctxt "show mobile search"
+msgid "Disabled"
+msgstr "Отключено"
+
+#: src/Setup/CustomizerSetup.php:1716
+msgctxt "show mobile search"
+msgid "Show Compact"
+msgstr "Показывать компактный"
+
+#: src/Setup/CustomizerSetup.php:1717
+msgctxt "show mobile search"
+msgid "Show Expanded"
+msgstr "Показывать расширенный"
+
+#: src/Setup/CustomizerSetup.php:1721
+msgid "Search Products Only"
+msgstr "Искать только товары"
+
+#: src/Setup/CustomizerSetup.php:1726
+msgid "Show First Products"
+msgstr "Показать первыми товары"
+
+#: src/Setup/CustomizerSetup.php:1733
+msgid "Results Count per Page"
+msgstr "Число результатов на странице"
+
+#: src/Setup/CustomizerSetup.php:1737
+msgid "Show Related Posts"
+msgstr "Показать похожие записи"
+
+#: src/Setup/CustomizerSetup.php:1745
+msgid "Modules"
+msgstr "Модули"
+
+#: src/Setup/CustomizerSetup.php:1749
+msgid "Table of Contents"
+msgstr "Содержание"
+
+#: src/Setup/CustomizerSetup.php:1750
+msgid "In this section, you can customize the toc"
+msgstr "В данной секции Вы можете настроить содержание"
+
+#: src/Setup/CustomizerSetup.php:1753
+msgid "Enable on posts"
+msgstr "Включить в записях"
+
+#: src/Setup/CustomizerSetup.php:1757
+msgid "Enable on pages"
+msgstr "Включить на страницах"
+
+#: src/Setup/CustomizerSetup.php:1761
+msgid "Default open"
+msgstr "По умолчанию открыто"
+
+#: src/Setup/CustomizerSetup.php:1765
+msgid "Wrap the content in noindex"
+msgstr "Обернуть содержание в noindex"
+
+#: src/Setup/CustomizerSetup.php:1775
+msgid "Content title"
+msgstr "Заголовок содержания"
+
+#: src/Setup/CustomizerSetup.php:1780
+msgid "Lightbox"
+msgstr "Лайтбокс"
+
+#: src/Setup/CustomizerSetup.php:1781
+msgid ""
+"In this section, you can turn on the enlargement of the picture when you "
+"click on it"
+msgstr ""
+"В данной секции Вы можете включить увеличение картинки при клике на нее"
+
+#: src/Setup/CustomizerSetup.php:1784
+msgid "Enable lightbox"
+msgstr "Включить лайтбокс"
+
+#: src/Setup/CustomizerSetup.php:1791
+msgid "In this section, you can customize the breadcrumbs"
+msgstr "В данной секции Вы можете настроить хлебные крошки"
+
+#: src/Setup/CustomizerSetup.php:1794
+msgid "Enable breadcrumbs"
+msgstr "Включить хлебные крошки"
+
+#: src/Setup/CustomizerSetup.php:1798
+msgid "Home text"
+msgstr "Название главной"
+
+#: src/Setup/CustomizerSetup.php:1801
+msgid "Show breadcrumbs in archives"
+msgstr "Показать хлебные крошки в архивах"
+
+#: src/Setup/CustomizerSetup.php:1805
+msgid "Display page title"
+msgstr "Вывести название страницы"
+
+#: src/Setup/CustomizerSetup.php:1809
+msgid "Show breadcrumbs in shop pages"
+msgstr "Показать хлебные крошки на страницах магазина"
+
+#: src/Setup/CustomizerSetup.php:1813
+msgid "Add shop page to breadcrumbs"
+msgstr "Добавить страницу магазина в хлебные крошки"
+
+#: src/Setup/CustomizerSetup.php:1819
+msgid "Contact Form"
+msgstr "Контактная форма"
+
+#: src/Setup/CustomizerSetup.php:1820
+msgid "In this section, you can customize the contact form"
+msgstr "В данной секции Вы можете настроить форму обратной связи"
+
+#: src/Setup/CustomizerSetup.php:1830
+msgid "Social profiles"
+msgstr "Социальные профили"
+
+#: src/Setup/CustomizerSetup.php:1831
+msgid "In this section, you can customize the social profiles"
+msgstr "В данной секции Вы можете настроить социальные профили"
+
+#: src/Setup/CustomizerSetup.php:1834
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/Setup/CustomizerSetup.php:1837
+msgid "Vk"
+msgstr "ВКонтакте"
+
+#: src/Setup/CustomizerSetup.php:1840
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/Setup/CustomizerSetup.php:1843
+msgid "Odnoklassniki"
+msgstr "Одноклассники"
+
+#: src/Setup/CustomizerSetup.php:1846
+msgid "Telegram"
+msgstr "Telegram"
+
+#: src/Setup/CustomizerSetup.php:1849
+msgid "Youtube"
+msgstr "Youtube"
+
+#: src/Setup/CustomizerSetup.php:1852
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/Setup/CustomizerSetup.php:1855
+msgid "Tik Tok"
+msgstr "Tik Tok"
+
+#: src/Setup/CustomizerSetup.php:1858
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: src/Setup/CustomizerSetup.php:1861
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: src/Setup/CustomizerSetup.php:1864
+msgid "Viber"
+msgstr "Viber"
+
+#: src/Setup/CustomizerSetup.php:1867
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/Setup/CustomizerSetup.php:1870
+msgid "Yandex Zen"
+msgstr "Яндекс Дзен"
+
+#: src/Setup/CustomizerSetup.php:1873
+msgid "GitHub"
+msgstr "GitHub"
+
+#: src/Setup/CustomizerSetup.php:1876
+msgid "Discord"
+msgstr "Discord"
+
+#: src/Setup/CustomizerSetup.php:1879
+msgid "RuTube"
+msgstr "RuTube"
+
+#: src/Setup/CustomizerSetup.php:1882
+msgid "Yappy"
+msgstr "Yappy"
+
+#: src/Setup/CustomizerSetup.php:1885
+msgid "Pikabu"
+msgstr "Пикабу"
+
+#: src/Setup/CustomizerSetup.php:1888
+msgid "Yandex"
+msgstr "Яндекс"
+
+#: src/Setup/CustomizerSetup.php:1891
+msgid "Hide links by JS"
+msgstr "Скрыть ссылки через JS"
+
+#: src/Setup/CustomizerSetup.php:1897 src/Setup/CustomizerSetup.php:1906
+msgid "Share buttons"
+msgstr "Кнопки поделиться"
+
+#: src/Setup/CustomizerSetup.php:1898
+msgid "In this section, you can customize the share buttons"
+msgstr "В данной секции Вы можете настроить социальные кнопки"
+
+#: src/Setup/CustomizerSetup.php:1901
+msgid "Enable counters"
+msgstr "Включить счетчики"
+
+#: src/Setup/CustomizerSetup.php:1913
+msgid "In this section, you can customize the author block"
+msgstr "В данной секции Вы можете настроить блок автора"
+
+#: src/Setup/CustomizerSetup.php:1916
+msgid "Display a link to the author’s page"
+msgstr "Выводить ссылку на страницу автора"
+
+#: src/Setup/CustomizerSetup.php:1920
+msgid "Open link in new window"
+msgstr "Открывать ссылку в новом окне"
+
+#: src/Setup/CustomizerSetup.php:1924
+msgid "Display author social profiles"
+msgstr "Выводить соц. профили автора"
+
+#: src/Setup/CustomizerSetup.php:1926
+msgid "Links to social profiles author can be set in Users"
+msgstr "Ссылки на соц. профили автора можно задать в разделе Пользователи"
+
+#: src/Setup/CustomizerSetup.php:1930
+msgid "Social profiles title"
+msgstr "Заголовок соц. профилей"
+
+#: src/Setup/CustomizerSetup.php:1933
+msgid "Show title social profiles"
+msgstr "Показать заголовок соц. профилей"
+
+#: src/Setup/CustomizerSetup.php:1937
+msgid "Hide links social profiles by JS"
+msgstr "Скрыть ссылки соц. профилей через JS"
+
+#: src/Setup/CustomizerSetup.php:1943
+msgid "Sitemap"
+msgstr "Карта сайта"
+
+#: src/Setup/CustomizerSetup.php:1944
+msgid "In this section, you can customize the sitemap"
+msgstr "В данной секции Вы можете настроить карту сайта"
+
+#: src/Setup/CustomizerSetup.php:1947
+msgid "ID of categories to exclude"
+msgstr "ID рубрик для исключения"
+
+#: src/Setup/CustomizerSetup.php:1948
+msgid ""
+"Enter the ID of the categories separated by commas to exclude them from the "
+"sitemap"
+msgstr "Укажите ID категорий через запятую, чтобы исключить их из карты сайта"
+
+#: src/Setup/CustomizerSetup.php:1951
+msgid "ID of posts to exclude"
+msgstr "ID записей для исключения"
+
+#: src/Setup/CustomizerSetup.php:1952
+msgid ""
+"Enter the ID of the posts separated by commas to exclude them from the "
+"sitemap"
+msgstr "Укажите ID записей через запятую, чтобы исключить их из карты сайта"
+
+#: src/Setup/CustomizerSetup.php:1955
+msgid "Show pages in sitemap"
+msgstr "Показать страницы в карте сайта"
+
+#: src/Setup/CustomizerSetup.php:1959
+msgid "ID of pages to exclude"
+msgstr "ID страниц для исключения"
+
+#: src/Setup/CustomizerSetup.php:1960
+msgid ""
+"Enter the ID of the pages separated by commas to exclude them from the "
+"sitemap"
+msgstr "Укажите ID страниц через запятую, чтобы исключить их из карты сайта"
+
+#: src/Setup/CustomizerSetup.php:1965
+msgid "Scroll to top button"
+msgstr "Кнопка Наверх"
+
+#: src/Setup/CustomizerSetup.php:1966
+msgid "In this section, you can customize the top button"
+msgstr "В данной секции Вы можете настроить кнопку Наверх"
+
+#: src/Setup/CustomizerSetup.php:1969
+msgid "Enable scroll to top button"
+msgstr "Включить кнопку Наверх"
+
+#: src/Setup/CustomizerSetup.php:1981
+msgid "Arrow color"
+msgstr "Цвет стрелки"
+
+#: src/Setup/CustomizerSetup.php:1985
+msgid "Button width"
+msgstr "Ширина кнопки"
+
+#: src/Setup/CustomizerSetup.php:1991
+msgid "Button height"
+msgstr "Высота кнопки"
+
+#: src/Setup/CustomizerSetup.php:1997
+msgid "Position Bottom"
+msgstr "Положение снизу"
+
+#: src/Setup/CustomizerSetup.php:2003
+msgid "Position from Side"
+msgstr "Положение от края"
+
+#: src/Setup/CustomizerSetup.php:2009
+msgid "Position Side"
+msgstr "Положение края"
+
+#: src/Setup/CustomizerSetup.php:2012
+msgid "Left"
+msgstr "Слева"
+
+#: src/Setup/CustomizerSetup.php:2013
+msgid "Right"
+msgstr "Справа"
+
+#: src/Setup/CustomizerSetup.php:2017
+msgid "Button icon"
+msgstr "Иконка на кнопке"
+
+#: src/Setup/CustomizerSetup.php:2030
+msgctxt "Customizer"
+msgid "Views Counter"
+msgstr "Счетчик просмотров"
+
+#: src/Setup/CustomizerSetup.php:2031
+msgid "In this section, you can customize the views counter"
+msgstr "В данной секции Вы можете настроить счётчик просмотров"
+
+#: src/Setup/CustomizerSetup.php:2034 src/Setup/CustomizerSetup.php:2060
+#: src/Setup/CustomizerSetup.php:2134
+msgctxt "Customizer"
+msgid "Enable the Module"
+msgstr "Включить модуль"
+
+#: src/Setup/CustomizerSetup.php:2038
+msgctxt "Customizer"
+msgid "Cunt Views"
+msgstr "Считать просмотры"
+
+#: src/Setup/CustomizerSetup.php:2041
+msgctxt "Customizer"
+msgid "Everyone"
+msgstr "Всех"
+
+#: src/Setup/CustomizerSetup.php:2042
+msgctxt "Customizer"
+msgid "Guests Only"
+msgstr "Только гостей"
+
+#: src/Setup/CustomizerSetup.php:2043
+msgctxt "Customizer"
+msgid "Registered Users Only"
+msgstr "Только зарегистрированных"
+
+#: src/Setup/CustomizerSetup.php:2047
+msgctxt "Customizer"
+msgid "Exclude Bot Views"
+msgstr "Исключить просмотры ботов"
+
+#: src/Setup/CustomizerSetup.php:2050
+msgctxt "Customizer"
+msgid "No"
+msgstr "Нет"
+
+#: src/Setup/CustomizerSetup.php:2051
+msgctxt "Customizer"
+msgid "Yes"
+msgstr "Да"
+
+#: src/Setup/CustomizerSetup.php:2057
+msgctxt "Customizer"
+msgid "One Click Buy"
+msgstr "Купить в один клик"
+
+#: src/Setup/CustomizerSetup.php:2064
+msgctxt "Customizer"
+msgid "Enable the Button on Catalog"
+msgstr "Включить кнопку на страницах каталога"
+
+#: src/Setup/CustomizerSetup.php:2071
+msgctxt "Customizer"
+msgid "Button Action"
+msgstr "Действие по кнопке"
+
+#: src/Setup/CustomizerSetup.php:2074
+msgctxt "Customizer"
+msgid "Send Email"
+msgstr "Отправить письмо"
+
+#: src/Setup/CustomizerSetup.php:2075
+msgctxt "Customizer"
+msgid "Create Order"
+msgstr "Создать заказ"
+
+#: src/Setup/CustomizerSetup.php:2076
+msgctxt "Customizer"
+msgid "Create Order and Send Email"
+msgstr "Создать заказ и отправить письмо"
+
+#: src/Setup/CustomizerSetup.php:2080
+msgctxt "Customizer"
+msgid "Redirect on Thankyou page"
+msgstr "Перенаправить на страницу успешного заказа"
+
+#: src/Setup/CustomizerSetup.php:2090
+msgctxt "Customizer"
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: src/Setup/CustomizerSetup.php:2094
+msgctxt "Customizer"
+msgid "Order Status"
+msgstr "Статус заказа"
+
+#: src/Setup/CustomizerSetup.php:2099
+msgctxt "Customizer"
+msgid "Success Message"
+msgstr "Успешное сообщение"
+
+#: src/Setup/CustomizerSetup.php:2101
+msgctxt "Customizer"
+msgid "message on success handled on click"
+msgstr "сообщение на успешно обработанный клик"
+
+#: src/Setup/CustomizerSetup.php:2104
+msgctxt "Customizer"
+msgid "Email To"
+msgstr "Отправить письмо"
+
+#: src/Setup/CustomizerSetup.php:2108
+msgctxt "Customizer"
+msgid "Name To"
+msgstr "Имя получателя"
+
+#: src/Setup/CustomizerSetup.php:2112
+msgctxt "Customizer"
+msgid "Email Subject"
+msgstr "Тема письма"
+
+#: src/Setup/CustomizerSetup.php:2116
+msgctxt "Customizer"
+msgid "Consent Checked by Default"
+msgstr "Согласие выбрано по умолчанию"
+
+#: src/Setup/CustomizerSetup.php:2120
+msgctxt "Customizer"
+msgid "Hide if Product is out of Stock"
+msgstr "Скрыть кнопку, если товара нет в наличии"
+
+#: src/Setup/CustomizerSetup.php:2124
+msgctxt "Customizer"
+msgid "Phone Mask"
+msgstr "Маска телефона"
+
+#: src/Setup/CustomizerSetup.php:2126
+msgctxt "Customizer"
+msgid ""
+"Example: <code>+7 (999) 999-99-99</code> for Russia<br>or <code>+ddd (999) "
+"999-999</code> for numbers containing 9 in the country code, e.g. <code>+972 "
+"(123) 123-123</code>"
+msgstr ""
+"Пример: <code>+7 (999) 999-99-99</code> для России<br>или <code>+ddd (999) "
+"999-999</code> для номеров, содержащих 9 в коде страны, например, <code>+972 "
+"(123) 123-123</code>"
+
+#: src/Setup/CustomizerSetup.php:2131
+msgctxt "Customizer"
+msgid "Minimum Order Amount"
+msgstr "Минимальная сумма заказа"
+
+#: src/Setup/CustomizerSetup.php:2138
+msgctxt "Customizer"
+msgid "Amount"
+msgstr "Сумма"
+
+#: src/Setup/CustomizerSetup.php:2149
+msgid "Post cards"
+msgstr "Карточки постов"
+
+#: src/Setup/CustomizerSetup.php:2150
+msgid ""
+"In this section, you can customize the appearance of postcards that are "
+"displayed on the main, in headings, search, etc."
+msgstr ""
+"В данной секции Вы можете настроить внешний вид карточек постов, которые "
+"выводятся на главной, в рубриках, поиске и т.д."
+
+#: src/Setup/CustomizerSetup.php:2164 src/Setup/CustomizerSetup.php:2189
+#: src/Setup/CustomizerSetup.php:2214
+msgid "Meta"
+msgstr "Мета-информация"
+
+#: src/Setup/CustomizerSetup.php:2169 src/Setup/CustomizerSetup.php:2195
+#: src/Setup/CustomizerSetup.php:2219
+msgid "Order Meta"
+msgstr "Порядок мета-информации"
+
+#: src/Setup/CustomizerSetup.php:2173 src/Setup/CustomizerSetup.php:2199
+#: src/Setup/CustomizerSetup.php:2226
+msgid "Excerpt length"
+msgstr "Длина отрывка"
+
+#: src/Setup/CustomizerSetup.php:2234
+msgid "Codes"
+msgstr "Коды"
+
+#: src/Setup/CustomizerSetup.php:2238
+msgid "In &lt;head&gt; section"
+msgstr "В &lt;head&gt; секции"
+
+#: src/Setup/CustomizerSetup.php:2239
+msgid "Before &lt;/head&gt; tag"
+msgstr "Перед &lt;/head&gt; тегом"
+
+#: src/Setup/CustomizerSetup.php:2243
+msgid "Before &lt;/body&gt;"
+msgstr "Перед &lt;/body&gt;"
+
+#: src/Setup/CustomizerSetup.php:2247
+msgid "After content"
+msgstr "После контента"
+
+#: src/Setup/CustomizerSetup.php:2253
+msgid "Colors and background"
+msgstr "Цвета и фон"
+
+#: src/Setup/CustomizerSetup.php:2257
+msgctxt "General colors"
+msgid "General"
+msgstr "Общие"
+
+#: src/Setup/CustomizerSetup.php:2260
+msgid "Site text color"
+msgstr "Основной цвет текста"
+
+#: src/Setup/CustomizerSetup.php:2264
+msgid "Site background color"
+msgstr "Фоновый цвет сайта"
+
+#: src/Setup/CustomizerSetup.php:2268
+msgid "Base site color"
+msgstr "Основной цвет сайта"
+
+#: src/Setup/CustomizerSetup.php:2270
+msgid ""
+"Separators, pagination, lists, buttons, mob. menu, etc. It is desirable to "
+"choose a color that stands out on a white background"
+msgstr ""
+"Разделители, пагинация, списки, кнопки, моб. меню и т.д. Цвет желательно "
+"подобрать выделяющийся на белом фоне"
+
+#: src/Setup/CustomizerSetup.php:2277
+msgid "Link hover color"
+msgstr "Цвет ссылок при наведении"
+
+#: src/Setup/CustomizerSetup.php:2281
+msgid "Content background color"
+msgstr "Цвет фона контента"
+
+#: src/Setup/CustomizerSetup.php:2285
+msgid "Site background"
+msgstr "Фон сайта"
+
+#: src/Setup/CustomizerSetup.php:2289
+msgid "Background repeat"
+msgstr "Повторение фона"
+
+#: src/Setup/CustomizerSetup.php:2292 src/Setup/CustomizerSetup.php:2355
+msgid "No repeat"
+msgstr "Не повторять"
+
+#: src/Setup/CustomizerSetup.php:2293 src/Setup/CustomizerSetup.php:2356
+msgid "Repeat horizontal and vertical"
+msgstr "Повторять по горизонтали и вертикали"
+
+#: src/Setup/CustomizerSetup.php:2294 src/Setup/CustomizerSetup.php:2357
+msgid "Repeat horizontal"
+msgstr "Повторять по горизонтали"
+
+#: src/Setup/CustomizerSetup.php:2295 src/Setup/CustomizerSetup.php:2358
+msgid "Repeat vertical"
+msgstr "Повторять по вертикали"
+
+#: src/Setup/CustomizerSetup.php:2299
+msgid "Background position"
+msgstr "Расположение фона"
+
+#: src/Setup/CustomizerSetup.php:2302 src/Setup/CustomizerSetup.php:2365
+msgid "Top left"
+msgstr "Сверху слева"
+
+#: src/Setup/CustomizerSetup.php:2303 src/Setup/CustomizerSetup.php:2366
+msgid "Top center"
+msgstr "Сверху по центру"
+
+#: src/Setup/CustomizerSetup.php:2304 src/Setup/CustomizerSetup.php:2367
+msgid "Top right"
+msgstr "Сверху справа"
+
+#: src/Setup/CustomizerSetup.php:2305 src/Setup/CustomizerSetup.php:2368
+msgid "Middle left"
+msgstr "По середине слева"
+
+#: src/Setup/CustomizerSetup.php:2306 src/Setup/CustomizerSetup.php:2369
+msgid "Middle center"
+msgstr "По середине по центру"
+
+#: src/Setup/CustomizerSetup.php:2307 src/Setup/CustomizerSetup.php:2370
+msgid "Middle right"
+msgstr "По середине справа"
+
+#: src/Setup/CustomizerSetup.php:2308 src/Setup/CustomizerSetup.php:2371
+msgid "Bottom left"
+msgstr "Снизу слева"
+
+#: src/Setup/CustomizerSetup.php:2309 src/Setup/CustomizerSetup.php:2372
+msgid "Bottom center"
+msgstr "Снизу по центру"
+
+#: src/Setup/CustomizerSetup.php:2310 src/Setup/CustomizerSetup.php:2373
+msgid "Bottom right"
+msgstr "Снизу справа"
+
+#: src/Setup/CustomizerSetup.php:2314
+msgid "Background size"
+msgstr "Размер фона"
+
+#: src/Setup/CustomizerSetup.php:2317
+msgid "Original"
+msgstr "Исходный"
+
+#: src/Setup/CustomizerSetup.php:2318
+msgid "Full screen"
+msgstr "На весь экран"
+
+#: src/Setup/CustomizerSetup.php:2319
+msgid "Fill screen"
+msgstr "Заполнить экран"
+
+#: src/Setup/CustomizerSetup.php:2323
+msgid "Scroll with page"
+msgstr "Прокручивать со страницей"
+
+#: src/Setup/CustomizerSetup.php:2329
+msgctxt "Header colors"
+msgid "Header"
+msgstr "Шапка"
+
+#: src/Setup/CustomizerSetup.php:2332 src/Setup/CustomizerSetup.php:2399
+msgid "Color text and links"
+msgstr "Цвет текста и ссылок"
+
+#: src/Setup/CustomizerSetup.php:2340 src/Setup/CustomizerSetup.php:2428
+msgid "Site title"
+msgstr "Название сайта"
+
+#: src/Setup/CustomizerSetup.php:2344 src/Setup/CustomizerSetup.php:2433
+msgid "Site description"
+msgstr "Описание сайта"
+
+#: src/Setup/CustomizerSetup.php:2348
+msgid "Header background"
+msgstr "Фон шапки"
+
+#: src/Setup/CustomizerSetup.php:2352
+msgid "Header background repeat"
+msgstr "Повторение фона"
+
+#: src/Setup/CustomizerSetup.php:2362
+msgid "Header background position"
+msgstr "Расположение фона"
+
+#: src/Setup/CustomizerSetup.php:2377
+msgid "Display header background on mobile"
+msgstr "Вывести фон шапки на мобильном"
+
+#: src/Setup/CustomizerSetup.php:2383
+msgctxt "Menu colors"
+msgid "Menu"
+msgstr "Меню"
+
+#: src/Setup/CustomizerSetup.php:2386
+msgid "Links color"
+msgstr "Цвет ссылок"
+
+#: src/Setup/CustomizerSetup.php:2396
+msgctxt "Footer colors"
+msgid "Footer"
+msgstr "Подвал"
+
+#: src/Setup/CustomizerSetup.php:2411
+msgid "Typography"
+msgstr "Типографика"
+
+#: src/Setup/CustomizerSetup.php:2415
+msgid "General"
+msgstr "Общие"
+
+#: src/Setup/CustomizerSetup.php:2418
+msgid "Main text"
+msgstr "Основной текст"
+
+#: src/Setup/CustomizerSetup.php:2440
+msgid "Menu"
+msgstr "Меню"
+
+#: src/Setup/CustomizerSetup.php:2443
+msgid "Links in the menu"
+msgstr "Ссылки в меню"
+
+#: src/Setup/CustomizerSetup.php:2450
+msgid "Headers"
+msgstr "Заголовки"
+
+#: src/Setup/CustomizerSetup.php:2451
+msgid "Font sizes of headings are in relative em units"
+msgstr "Размер шрифтов заголовков указан в относительных единицах измерения em"
+
+#: src/Setup/CustomizerSetup.php:2459
+msgid "Header H2"
+msgstr "Заголовок H2"
+
+#: src/Setup/CustomizerSetup.php:2464
+msgid "Header H3"
+msgstr "Заголовок H3"
+
+#: src/Setup/CustomizerSetup.php:2469
+msgid "Header H4"
+msgstr "Заголовок H4"
+
+#: src/Setup/CustomizerSetup.php:2474
+msgid "Header H5"
+msgstr "Заголовок H5"
+
+#: src/Setup/CustomizerSetup.php:2479
+msgid "Header H6"
+msgstr "Заголовок H6"
+
+#: src/Setup/CustomizerSetup.php:2488 src/Setup/CustomizerSetup.php:2497
+msgid "Home constructor"
+msgstr "Конструктор главной"
+
+#: src/Setup/CustomizerSetup.php:2489
+msgid "In this section, you can customize the main constructor blocks"
+msgstr "В данной секции Вы можете настроить блоки конструктора главной"
+
+#: src/Setup/CustomizerSetup.php:2493
+msgid "Enabled"
+msgstr "Включено"
+
+#: src/Setup/CustomizerSetup.php:2564
+msgid "Tweak options"
+msgstr "Расширенные настройки"
+
+#: src/Setup/CustomizerSetup.php:2568
+msgid "Content on full width"
+msgstr "Контент на всю ширину"
+
+#: src/Setup/CustomizerSetup.php:2572
+msgid "Social buttons title"
+msgstr "Заголовок соц. кнопок"
+
+#: src/Setup/CustomizerSetup.php:2575
+msgid "Show title social buttons in posts"
+msgstr "Показать заголовок нижних соц. кнопок в записях"
+
+#: src/Setup/CustomizerSetup.php:2579
+msgid "Show title social buttons on pages"
+msgstr "Показать заголовок нижних соц. кнопок на страницах"
+
+#: src/Setup/CustomizerSetup.php:2583
+msgid "Rating title in posts"
+msgstr "Заголовок рейтинга в записях"
+
+#: src/Setup/CustomizerSetup.php:2586
+msgid "Rating title on pages"
+msgstr "Заголовок рейтинга на страницах"
+
+#: src/Setup/CustomizerSetup.php:2589
+msgid "Show rating statistics"
+msgstr "Показать статистику рейтинга"
+
+#: src/Setup/CustomizerSetup.php:2593
+msgid "Move jquery in footer"
+msgstr "Убрать подключение jquery в футер"
+
+#: src/Setup/CustomizerSetup.php:2597
+msgid "Related posts title"
+msgstr "Заголовок похожих записей"
+
+#: src/Setup/CustomizerSetup.php:2600
+msgid "Enable advertising on pages"
+msgstr "Включить рекламу на страницаx"
+
+#: src/Setup/CustomizerSetup.php:2604
+msgid "The value of the telephone field for publisher microdata"
+msgstr "Значение поля telephone для микроразметки publisher"
+
+#: src/Setup/CustomizerSetup.php:2605
+msgid ""
+"If the field is not specified, the site name will be displayed as the "
+"telephone value"
+msgstr ""
+"Если поле не задано - в качестве значения telephone будет выводится название "
+"сайта"
+
+#: src/Setup/CustomizerSetup.php:2608
+msgid "The value of the address field for publisher microdata"
+msgstr "Значение поля address для микроразметки publisher"
+
+#: src/Setup/CustomizerSetup.php:2609
+msgid ""
+"If the field is not specified, the site address will be displayed as the "
+"address value"
+msgstr ""
+"Если поле не задано - в качестве значения address будет выводится адрес сайта"
+
+#: src/Setup/CustomizerSetup.php:2614
+msgid "Affiliate program"
+msgstr "Партнерская программа"
+
+#: src/Setup/CustomizerSetup.php:2619
+msgid "Start earning money"
+msgstr "Начать зарабатывать деньги"
+
+#: src/Setup/CustomizerSetup.php:2623
+msgid "Text before link"
+msgstr "Текст перед ссылкой"
+
+#: src/Setup/CustomizerSetup.php:2626
+msgid "Text after link"
+msgstr "Текст после ссылки"
+
+#: src/Setup/CustomizerSetup.php:2778
+msgid "Add a comment"
+msgstr "Добавить комментарий"
+
+#: src/Setup/CustomizerSetup.php:2862 template-parts/blocks/author-box.php:76
+msgid "Author profiles"
+msgstr "Профили автора"
+
+#: src/Setup/CustomizerSetup.php:2896
+msgid "New order was successfully created"
+msgstr "Новый заказ успешно создан"
+
+#: src/Setup/CustomizerSetup.php:2899
+msgid "New One Click Buy Order"
+msgstr "Новый заказ в один клик"
+
+#: src/Setup/CustomizerSetup.php:3051 template-parts/content-page.php:81
+#: template-parts/content-single.php:187
+msgid "Share to friends"
+msgstr "Поделиться с друзьями"
+
+#: src/Setup/CustomizerSetup.php:3054 template-parts/content-single.php:177
+msgid "Rate article"
+msgstr "Оцените статью"
+
+#: src/Setup/CustomizerSetup.php:3058 template-parts/related-posts.php:134
+msgid "You may also like"
+msgstr "Вам также может понравиться"
+
+#: src/Setup/CustomizerSetup.php:3065
+msgid "Powered by theme"
+msgstr "Работает на теме"
+
+#: src/Setup/CustomizerSetup.php:3744
+msgctxt "Order status"
+msgid "Processing"
+msgstr "Обработка"
+
+#: src/Setup/ThemeSetup.php:143
+msgid "S"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:148
+msgid "Normal"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:149
+msgid "M"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:154
+msgid "Large"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:155
+msgid "L"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:160
+msgid "Huge"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:161
+msgid "XL"
+msgstr ""
+
+#: src/Setup/ThemeSetup.php:176
+msgid "Facebook profile link"
+msgstr "Ссылка на профиль в Facebook"
+
+#: src/Setup/ThemeSetup.php:177
+msgid "Vkontakte profile link"
+msgstr "Ссылка на профиль в ВКонтакте"
+
+#: src/Setup/ThemeSetup.php:178
+msgid "Twitter profile link"
+msgstr "Ваше имя на Twitter (без @)"
+
+#: src/Setup/ThemeSetup.php:179
+msgid "Odnoklassniki profile link"
+msgstr "Ссылка на профиль в Одноклассники"
+
+#: src/Setup/ThemeSetup.php:180
+msgid "Telegram profile link"
+msgstr "Ссылка на профиль в Telegram"
+
+#: src/Setup/ThemeSetup.php:181
+msgid "Youtube profile link"
+msgstr "Ссылка на профиль YouTube"
+
+#: src/Setup/ThemeSetup.php:182
+msgid "Instagram profile link"
+msgstr "Ссылка на профиль в Instagram"
+
+#: src/Setup/ThemeSetup.php:183
+msgid "Tik Tok profile link"
+msgstr "Ссылка на профиль в Tik Tok"
+
+#: src/Setup/ThemeSetup.php:184
+msgid "Linkedin profile link"
+msgstr "Ссылка на профиль в LinkedIn"
+
+#: src/Setup/ThemeSetup.php:185
+msgid "Whatsapp profile link"
+msgstr "Ссылка на профиль в Whatsapp"
+
+#: src/Setup/ThemeSetup.php:186
+msgid "Viber profile link"
+msgstr "Ссылка на профиль в Viber"
+
+#: src/Setup/ThemeSetup.php:187
+msgid "Pinterest profile link"
+msgstr "Ссылка на профиль в Pinterest"
+
+#: src/Setup/ThemeSetup.php:188
+msgid "Yandex Zen profile link"
+msgstr "Ссылка на профиль в Яндекс Дзен"
+
+#: src/Setup/ThemeSetup.php:189
+msgid "GitHub profile link"
+msgstr "Ссылка на профиль в GitHub"
+
+#: src/Setup/ThemeSetup.php:190
+msgid "Discord profile link"
+msgstr "Ссылка на профиль в Discord"
+
+#: src/Setup/ThemeSetup.php:191
+msgid "RuTube profile link"
+msgstr "Ссылка на профиль в RuTube"
+
+#: src/Setup/ThemeSetup.php:192
+msgid "Yappy profile link"
+msgstr "Ссылка на профиль в Yappy"
+
+#: src/Setup/ThemeSetup.php:193
+msgid "Pikabu profile link"
+msgstr "Ссылка на профиль в Пикабу"
+
+#: src/Setup/ThemeSetup.php:194
+msgid "Yandex profile link"
+msgstr "Ссылка на профиль в Яндекс"
+
+#: src/Setup/ThemeSetup.php:248
+#, php-format
+msgid "Footer %d"
+msgstr "Подвал %d"
+
+#: src/Setup/ThemeSetup.php:263 src/Setup/ThemeSetup.php:273
+msgid "Add widgets here."
+msgstr "Добавьте виджет здесь."
+
+#: src/Setup/ThemeSetup.php:271
+msgid "Mobile filters"
+msgstr "Фильтры в мобильном"
+
+#: src/Setup/ThemeSetup.php:339
+msgid "average"
+msgstr "средний"
+
+#: src/Setup/ThemeSetup.php:340
+msgid "from"
+msgstr "от"
+
+#: src/Setup/ThemeSetup.php:356
+msgid "Too many products to add to compare"
+msgstr "Слишком много товаров для сравнения"
+
+#: src/Setup/ThemeSetup.php:357
+msgid "You have to consent to the processing of personal data"
+msgstr "Вы должны дать согласие на обработку персональных данных"
+
+#: src/Setup/ThemeSetup.php:422
+msgid "After the header and top menu (for the entire width of the site)"
+msgstr "После шапки и верхнего меню (на всю ширину сайта)"
+
+#: src/Setup/ThemeSetup.php:450
+msgid "Before related posts"
+msgstr "Перед похожими записями"
+
+#: src/Setup/ThemeSetup.php:454
+msgid "After related posts"
+msgstr "После похожих записей"
+
+#: src/Setup/ThemeSetup.php:458
+msgid "Before the bottom menu and footer (for the entire width of the site)"
+msgstr "Перед нижним меню и подвалом (на всю ширину сайта)"
+
+#: src/Setup/ThemeSetup.php:473
+msgid "Your name"
+msgstr "Ваше имя"
+
+#: src/Setup/ThemeSetup.php:479
+msgid "Your e-mail"
+msgstr "Ваш e-mail"
+
+#: src/Setup/ThemeSetup.php:484
+msgid "Your subject"
+msgstr "Тема"
+
+#: src/Setup/ThemeSetup.php:489
+msgid "Message"
+msgstr "Сообщение"
+
+#: src/Setup/WoocommerceSetup.php:321
+msgid "here"
+msgstr "здесь"
+
+#: src/Setup/WoocommerceSetup.php:326
+#, php-format
+msgid ""
+"Your site does not appear to be using WooCommerce plugin. To get more "
+"advantage from the theme you can setup the plugin %s"
+msgstr ""
+"Похоже ваш сайт не использует плагин WooCommerce. Чтобы использовать все "
+"возможности темы вы можете установить плагин %s"
+
+#: src/Setup/WoocommerceSetup.php:424
+#, php-format
+msgid "from&nbsp;<del>%1$s</del><ins>%2$s</ins>"
+msgstr "от&nbsp;<del>%1$s</del><ins>%2$s</ins>"
+
+#: src/Setup/WoocommerceSetup.php:426
+#, php-format
+msgid "from&nbsp;%s"
+msgstr "от&nbsp;%s"
+
+#: src/Setup/WoocommerceSetup.php:513
+msgid "Additional Custom Options from"
+msgstr "Дополнительные опции от"
+
+#: src/Setup/WoocommerceSetup.php:519
+msgid "Image Zoom"
+msgstr "Увеличение изображения"
+
+#: src/Setup/WoocommerceSetup.php:520
+msgid "Disable image zoom"
+msgstr "Отключить увеличение изображения"
+
+#: src/Shortcode/Compare.php:137 src/Shortcode/Compare.php:139
+#: woocommerce/cart/cart.php:18 woocommerce/cart/cart.php:69
+msgid "Price"
+msgstr "Цена"
+
+#: src/Shortcode/Compare.php:150 src/Shortcode/Compare.php:152
+msgid "Weight"
+msgstr "Вес"
+
+#: src/Shortcode/Compare.php:157 src/Shortcode/Compare.php:159
+msgid "Dimensions"
+msgstr ""
+
+#: src/Support/GoogleCaptchaSupport.php:47
+#: src/Support/GoogleCaptchaSupport.php:51
+msgid "Enable google captcha"
+msgstr "Включить гугл капчу"
+
+#: src/Support/GoogleCaptchaSupport.php:108
+#: src/Support/GoogleCaptchaSupport.php:156
+msgid ""
+"It is unable to send a message until the administrator has configured "
+"recaptcha"
+msgstr "Нельзя отправить сообщение пока администратор не настроил рекапчу"
+
+#: src/ThemeProvider.php:44
+msgid "You need to activate the license in Settings section of Admin panel"
+msgstr ""
+"Вам необходимо активировать лицензию в разделе Настройки панели "
+"администратора"
+
+#: src/ThemeProvider.php:54
+msgid "Attention!"
+msgstr "Внимание!"
+
+#: src/ThemeProvider.php:55
+#, php-format
+msgid ""
+"To activate theme you need to enter the license key on <a href=\"%s\">this "
+"page</a>."
+msgstr ""
+"Чтобы активировать тему, вы должны ввести лицензионный ключ на <a "
+"href=\"%s\">этой странице</a>."
+
+#: src/ThemeProvider.php:85
+msgid "Can't get response from license server"
+msgstr "Не удалось получить ответ от сервера лицензий"
+
+#: src/TinyMce.php:58
+msgctxt "tinymce"
+msgid "Extra Buttons"
+msgstr "Дополнительные кнопки"
+
+#: src/TinyMce.php:59
+msgctxt "tinymce"
+msgid "OK"
+msgstr ""
+
+#: src/TinyMce.php:60
+msgctxt "tinymce"
+msgid "Cancel"
+msgstr "Отменить"
+
+#: src/TinyMce.php:61
+msgctxt "tinymce"
+msgid "Enter text"
+msgstr "Введите текст"
+
+#: src/TinyMce.php:62
+msgctxt "tinymce"
+msgid "Insert blockquote"
+msgstr "Вставить блок внимания"
+
+#: src/TinyMce.php:63
+msgctxt "tinymce"
+msgid "Insert selected text"
+msgstr "Вставить выделенный текст"
+
+#: src/TinyMce.php:64
+msgctxt "tinymce"
+msgid "Add blockquote"
+msgstr "Добавить блок внимания"
+
+#: src/TinyMce.php:65
+msgctxt "tinymce"
+msgid "Mark text"
+msgstr "Выделить текст"
+
+#: src/TinyMce.php:66
+msgctxt "tinymce"
+msgid "Mask link"
+msgstr "Замаскировать ссылку"
+
+#: src/TinyMce.php:67
+msgctxt "tinymce"
+msgid "Link text must be selected"
+msgstr "Необходимо выделить текст ссылки"
+
+#: src/TinyMce.php:68
+msgctxt "tinymce"
+msgid "Enter link address"
+msgstr "Введите адрес ссылки"
+
+#: src/TinyMce.php:69
+msgctxt "tinymce"
+msgid "You must specify the link address"
+msgstr "Необходимо указать адрес ссылки"
+
+#: src/TinyMce.php:70
+msgctxt "tinymce"
+msgid "Highlight the spoiler text"
+msgstr "Выделите текст для спойлера"
+
+#: src/TinyMce.php:71
+msgctxt "tinymce"
+msgid "Enter a spoiler title or leave blank"
+msgstr "Введите заголовок спойлера или оставьте пустым"
+
+#: src/TinyMce.php:72
+msgctxt "tinymce"
+msgid "Add Button"
+msgstr "Добавить кнопку"
+
+#: src/TinyMce.php:73
+msgctxt "tinymce"
+msgid "Insert Button"
+msgstr "Вставить кнопку"
+
+#: src/TinyMce.php:74
+msgctxt "tinymce"
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: src/TinyMce.php:75
+msgctxt "tinymce"
+msgid "Link"
+msgstr "Ссылка"
+
+#: src/TinyMce.php:76
+msgctxt "tinymce"
+msgid "Hide Link"
+msgstr "Скрыть ссылку"
+
+#: src/TinyMce.php:77
+msgctxt "tinymce"
+msgid "Hide"
+msgstr "Скрыть"
+
+#: src/TinyMce.php:78
+msgctxt "tinymce"
+msgid "Do not hide"
+msgstr "Не скрывать"
+
+#: src/TinyMce.php:79
+msgctxt "tinymce"
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: src/TinyMce.php:80
+msgctxt "tinymce"
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: src/TinyMce.php:81
+msgctxt "tinymce"
+msgid "Size"
+msgstr "Размер"
+
+#: src/TinyMce.php:82
+msgctxt "tinymce:button"
+msgid "Small"
+msgstr "Маленькая"
+
+#: src/TinyMce.php:83
+msgctxt "tinymce:button"
+msgid "Medium"
+msgstr "Средняя"
+
+#: src/TinyMce.php:84
+msgctxt "tinymce:button"
+msgid "Big"
+msgstr "Большая"
+
+#: src/TinyMce.php:85
+msgctxt "tinymce"
+msgid "Open Link"
+msgstr "Открыть ссылку"
+
+#: src/TinyMce.php:86
+msgctxt "tinymce"
+msgid "Current tab"
+msgstr "В этой вкладке"
+
+#: src/TinyMce.php:87
+msgctxt "tinymce"
+msgid "New tab"
+msgstr "В новой вкладке"
+
+#: src/Widget/MiniCart.php:16
+msgid "Mini Cart"
+msgstr "Мини корзина"
+
+#: src/Widget/MiniCart.php:18
+#, php-format
+msgid "Mini Cart Widget from theme %s"
+msgstr "Виджет мини корзины из темы %s"
+
+#: src/Widget/TableOfContents.php:17
+msgid "Table Of Contents"
+msgstr "Содержание"
+
+#: src/Widget/TableOfContents.php:19
+msgid "Widget for Table of Contents"
+msgstr "Виджет содержания"
+
+#: src/Widget/TableOfContents.php:85
+msgid "Title:"
+msgstr ""
+
+#: src/Widget/TableOfContents.php:88
+msgid "Output in Post Types:"
+msgstr "Выводить в типах постов:"
+
+#: src/WoocommerceBlocks.php:51 woocommerce/compare-products.php:55
+#: woocommerce/content-product-card-small.php:63
+#: woocommerce/content-product-card-standard.php:64
+#: woocommerce/content-product-small.php:68 woocommerce/content-product.php:70
+#: woocommerce/content-single-product.php:73
+#: woocommerce/content-single-product.php:94
+msgid "Add to Favorite"
+msgstr "Добавить в избранное"
+
+#: src/WoocommerceBlocks.php:54 woocommerce/compare-products.php:58
+#: woocommerce/content-product-card-small.php:66
+#: woocommerce/content-product-card-standard.php:67
+#: woocommerce/content-product-small.php:71 woocommerce/content-product.php:73
+msgid "Quick View"
+msgstr "Быстрый просмотр"
+
+#: src/WoocommerceBlocks.php:57 woocommerce/compare-products.php:61
+#: woocommerce/content-product-card-small.php:69
+#: woocommerce/content-product-card-standard.php:70
+#: woocommerce/content-product-small.php:74 woocommerce/content-product.php:76
+#: woocommerce/content-single-product.php:77
+#: woocommerce/content-single-product.php:97
+msgid "Add to Compare"
+msgstr "Добавить в сравнение"
+
+#: template-parts/_renderer/admin/status.php:27
+msgid "Child Theme Templates Status"
+msgstr "Статус шаблонов дочерней темы"
+
+#: template-parts/_renderer/admin/status.php:29
+msgid "There is no child theme"
+msgstr "Дочерняя тема не установлена"
+
+#: template-parts/_renderer/comment.php:57
+msgid "author"
+msgstr "автор"
+
+#: template-parts/_renderer/comment.php:64
+#, php-format
+msgid "at %s"
+msgstr "в %s"
+
+#: template-parts/_renderer/one-click-buy-popup.php:34
+msgid "Phone"
+msgstr "Телефон"
+
+#: template-parts/_renderer/one-click-buy-popup.php:40
+msgid "Consent to the processing of personal data"
+msgstr "Даю согласие на обработку персональных данных"
+
+#: template-parts/_renderer/one-click-buy-popup.php:86
+#: woocommerce/single-product-reviews.php:74
+msgid "Submit"
+msgstr "Отправить"
+
+#: template-parts/_renderer/one-click-buy-popup.php:87
+msgid "Cancel"
+msgstr "Отменить"
+
+#: template-parts/blocks/author-box.php:92
+msgid "Rate author"
+msgstr "Оцените автора"
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свой первый пост? <a href=\"%1$s\">Приступить</a>."
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но ничего не соответствует условиям поиска. Пожалуйста, попробуйте "
+"еще раз с другими ключевыми словами."
+
+#: template-parts/content-none.php:45
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Похоже здесь мы ничего не нашли. Может быть поиск поможет."
+
+#: template-parts/content-page-woocommerce.php:49
+#: template-parts/content-page.php:62 template-parts/content-single.php:133
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/header/header.php:79 woocommerce/product-searchform.php:13
+msgid "Search for:"
+msgstr ""
+
+#: template-parts/sections/posts.php:117
+msgid "Subcategories"
+msgstr "Подразделы"
+
+#: template-parts/sections/slide-item-category.php:51
+#: template-parts/sections/slider.php:59
+msgid "More"
+msgstr "Подробнее"
+
+#: template-parts/sidebar/mobile.php:34
+msgid "Show filters"
+msgstr "Показать фильтры"
+
+#: template-parts/sidebar/mobile.php:35
+msgid "Hide filters"
+msgstr "Скрыть фильтры"
+
+#: woocommerce/cart/cart.php:19 woocommerce/cart/cart.php:75
+#: woocommerce/emails/one-click-buy.php:38
+#: woocommerce/emails/plain/one-click-buy.php:14
+msgid "Quantity"
+msgstr "Количество"
+
+#: woocommerce/cart/cart.php:20 woocommerce/cart/cart.php:97
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:64
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:110 woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:131
+msgid "Coupon:"
+msgstr "Купон:"
+
+#: woocommerce/cart/cart.php:132
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:133
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "Update cart"
+msgstr "Обновить корзину"
+
+#: woocommerce/cart/mini-cart.php:96
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/content-single-product-ajax.php:70
+#: woocommerce/content-single-product.php:116
+msgid "SKU"
+msgstr ""
+
+#: woocommerce/emails/one-click-buy.php:22
+#: woocommerce/emails/plain/one-click-buy.php:11
+msgid "Request for new One Click Buy Order"
+msgstr "Запрос на новую покупку в один клик"
+
+#: woocommerce/emails/one-click-buy.php:34
+#: woocommerce/emails/plain/one-click-buy.php:13
+msgid "(no product found)"
+msgstr "(товар не найден)"
+
+#: woocommerce/emails/one-click-buy.php:43
+msgid "Telephone"
+msgstr "Телефон"
+
+#: woocommerce/loop/result-count.php:25
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+#, php-format
+msgid "Showing all %d result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: woocommerce/loop/result-count.php:33
+#, php-format
+msgctxt "Showing %1$d&ndash;%2$d of %3$d results"
+msgid "Showing %1$d&ndash;%2$d of %3$d result"
+msgstr ""
+
+#: woocommerce/product-searchform.php:14
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: woocommerce/single-product-reviews.php:55
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+msgid "Add a review"
+msgstr "Добавить отзыв"
+
+#: woocommerce/single-product-reviews.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:113
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:117
+msgid "Your rating"
+msgstr "Ваш рейтинг"
+
+#: woocommerce/single-product-reviews.php:118
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:119
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:120
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:121
+msgid "Average"
+msgstr "Среднее"
+
+#: woocommerce/single-product-reviews.php:122
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:123
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:127
+msgid "Your review"
+msgstr "Ваш отзыв"
+
+#: woocommerce/single-product-reviews.php:139
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:16
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:26
+msgid "verified owner"
+msgstr ""

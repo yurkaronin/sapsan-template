@@ -1,0 +1,52 @@
+.header-html-2 .button {
+  font-size: 12px;
+  height: 38px;
+  padding: 10px 16px;
+}
+
+.site-header {
+  padding: 10px 0;
+}
+
+.header__links {
+  max-width: -moz-max-content;
+  max-width: max-content;
+  margin-left: auto;
+  padding-right: 0;
+}
+
+.header-html-2 {
+  max-width: -moz-max-content;
+  max-width: max-content;
+  padding-right: 0;
+}
+
+.main-navigation .menu-item a, .main-navigation .removed-link {
+  padding: 18px 16px;
+  font-size: 14px !important;
+  line-height: 1;
+  text-transform: uppercase;
+}
+@media (max-width: 550px) {
+  .footer-contacts__wrap {
+    max-width: 100%;
+    width: 100%;
+    flex-shrink: 0;
+  }
+  .footer-contacts__wrap a {
+    max-width: 100%;
+    width: 100%;
+    flex-shrink: 0;
+    font-size: 22px;
+    display: block;
+    line-height: 1.4;
+  }
+  .widget_custom_html {
+    margin-bottom: 0;
+  }
+  .footer-contacts__wrap br {
+    display: none;
+  }
+}
+
+/*# sourceMappingURL=custom.css.map */
